@@ -40,13 +40,13 @@
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **474 MHz**      | Iskra P20        |                |     |           |
+|      | Iskra P20        |                |     |           |
 |                  | ISKRA P2845      |                |     |           |
 |                  | IKUSI FLASHD C48 |                |     |           |
-| **570 MHz**      | Iskra P20        |                |     |           |
+|      | Iskra P20        |                |     |           |
 |                  | ISKRA P2845      |                |     |           |
 |                  | IKUSI FLASHD C48 |                |     |           |
-| **706 MHz**      | Iskra P20        |                |     |           |
+|     | Iskra P20        |                |     |           |
 |                  | ISKRA P2845      |                |     |           |
 |                  | IKUSI FLASHD C48 |                |     |           |
 
@@ -66,7 +66,6 @@
 
 ## 8. Grafikus ábrázolás
 
-![Jelszint és MER ábrázolás]() 
 
 ---
 
