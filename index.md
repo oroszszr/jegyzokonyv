@@ -2,7 +2,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
 **A mérést végző neve:** Orosz Szabolcs 
-**A mérés tárgya:** Antennák teljesítményének és jelminőségének összehasonlítása  
+**A mérés tárgya:**  
 **A mérés száma:** 5. mérés  
 **A mérés dátuma:** 2024. 11. 12.
 **A mérést vezette:** Sándor Péter  
@@ -31,7 +31,7 @@
 
 ### 3. **Mérési helyszín és környezet**
 - **Antenna magassága**: 
-- **Környezet jellemzői**: V3 labor
+- **Környezet jellemzői**: V3 labor, városi körülmények, iskola falain belül
 - **Adó távolsága**: 
 
 ---
