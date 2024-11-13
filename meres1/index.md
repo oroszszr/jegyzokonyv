@@ -97,5 +97,8 @@ $$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89 \
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
 
+### Elemzés
+A PI csillapító (PI pad) ellenállásos áramkör elemzése során megállapítható, hogy a tervezett áramkör hatékonyan csökkenti a jel amplitúdóját, miközben megőrzi annak formáját. Az áramkör négy fő összetevőből áll: három ellenállásból és egy terhelő ellenállásból. Megfigyelhető, hogy kisebb eltérések vannak a számított és a mért értékek között.
 
-
+### Következtetések
+A PI csillapító áramkör sikeresen megvalósult, és a tesztelési eredmények azt jelzik, hogy a csillapítási teljesítmény összhangban van a tervezett specifikációkkal. A mérések alapján a csillapító hatás a kívánt frekvenciatartományban optimális, és a jelminőség megőrzése is megfelelő. A projekt során szerzett tapasztalatok alapján fontos, hogy a tervezési folyamat során figyelembe vegyük a komponensek toleranciáját és a környezeti hatásokat, mivel ezek jelentős hatással lehetnek az áramkör teljesítményére.
