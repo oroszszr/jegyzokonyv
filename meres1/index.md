@@ -25,6 +25,8 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 - Ni myDAQ 
 
 ## Számítások
+<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/keplet.PNG" width="300" height="170">  
+
 ### Csillapítás Kiszámítása
 
 A csillapítást a következő képlettel számolhatjuk ki:  
@@ -52,9 +54,18 @@ $$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100
 
 Ez alapján a csillapítás körülbelül **11.3%**.
 
+### A kapcsolási rajz ábrázolja a Ni myDAQ a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
 
+<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad.PNG" width="770" height="400">
 
-## Ábra
-**PI Ellenállás-hálózat**
+## Mérési eredmények
+
+### Bemeneti és Kimeneti Impedancia
+- **Bemeneti Impedancia:** [Írd be az értéket] Ω
+- **Kimeneti Impedancia:** [Írd be az értéket] Ω
+
+### Csillapítás
+- **Csillapítás (dB):** -1.06 dB
+- **Csillapítás (%):** 11.3%
 
 
