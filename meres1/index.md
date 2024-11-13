@@ -88,16 +88,14 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 
 ### Százalékos Csillapítás Kiszámítása
 A százalékos csillapítást a következő képlettel számoltuk ki:
-
 $$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$
 
 1. **Csillapítás Kiszámítása:**
-   $$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89\%$$
+$$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89\%$$
 
 ### Eredmények
 - **Csillapítás (dB)**: -5.98 dB
 - **Csillapítás (%)**: 49.89%
-
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
 
