@@ -57,11 +57,11 @@ $$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100
 
 Ez alapján a csillapítás körülbelül **11.3%**.
 
-### A kapcsolási rajz ábrázolja a Pi csillapítót az elméleti ellenállás értékekkel:
+### A kapcsolási rajz ábrázolja a Pi csillapítót az kiszámított ellenállás értékekkel:
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
 
-### A kapcsolási rajz ábrázolja a Pi csillapítót a kiszámított ellenállás értékekkel:
+### A kapcsolási rajz ábrázolja a Pi csillapítót a gyakorlati ellenállás értékekkel:
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad2.PNG" width="770" height="400">
 
