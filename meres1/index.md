@@ -61,7 +61,6 @@ $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 - **Csillapítás (%)**: 46.8%  
 
 ### A kapcsolási rajz ábrázolja a Pi csillapítót a gyakorlati ellenállás értékekkel:
-
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad2.PNG" width="770" height="400">
 
 ## Csillapítási Eredmények elméletben  
@@ -74,7 +73,6 @@ $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 
 ### Csillapítás Kiszámítása (dB)
 A csillapítást a következő képlettel számoltuk ki:
-
 $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 
 1. **Hányados Számítása:**
@@ -99,14 +97,5 @@ $$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89\%
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
 
-## Mérési eredmények
-
-### Bemeneti és Kimeneti Impedancia
-- **Bemeneti Impedancia:** [Írd be az értéket] Ω
-- **Kimeneti Impedancia:** [Írd be az értéket] Ω
-
-### Csillapítás
-- **Csillapítás (dB):** -1.06 dB
-- **Csillapítás (%):** 11.3%
 
 
