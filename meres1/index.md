@@ -20,11 +20,13 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 
 ## Eszközök
 - Elméletbeli Ellenállások:
+  - Rt = 680 Ω
   - R3 = 2046 Ω
   - R4 = 508 Ω
 - Gyakorlati  ellenállások
+  - Rt = 680 Ω
   - R3 = 2,2 kΩ
-  - R4 = 
+  - R4 = 440 Ω
 - Ni myDAQ 
 
 ## Számítások
