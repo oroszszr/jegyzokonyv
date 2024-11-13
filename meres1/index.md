@@ -32,6 +32,8 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 ## Számítások
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/keplet.PNG" width="300" height="170">  
 
+<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/szamitas2.PNG" width="300" height="170">  
+
 ## Csillapítási Eredmények gyakorlatban 
 
 ### Megadott Értékek  
