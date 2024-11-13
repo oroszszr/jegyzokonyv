@@ -56,7 +56,7 @@ Ez alapján a csillapítás körülbelül **11.3%**.
 
 ### A kapcsolási rajz ábrázolja a Ni myDAQ a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
 
-<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad.PNG" width="770" height="400">
+<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
 
 ## Mérési eredmények
 
