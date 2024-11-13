@@ -1,158 +1,34 @@
-
 # MÉRÉSI JEGYZŐKÖNYV
+# Méréstechnikai Feladat: PI Ellenállás-hálózat
 
-**A mérést végző neve:** Orosz Szabolcs 
-**A mérés tárgya:**  tt
-**A mérés száma:** 5. mérés  
-**A mérés dátuma:** 2024. 11. 12.
+**A mérést végző neve:** Orosz Szabolcs és Csépke Péter  
+**A mérés tárgya:** Méréstechnikai Feladat: PI Ellenállás-hálózat  
+**A mérés száma:** 1. mérés  
+**A mérés dátuma:** 2024. 11. 13  
 **A mérést vezette:** Sándor Péter  
 
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
 **Helyszín:** V3 Labor  
 
----
+## Feladat Célja
+A PI ellenállás-hálózat jellemzőinek meghatározása a megadott ellenállásértékek alapján. Impedanciaillesztés.  
 
-## 1. Mérés célja
+## Elméleti Háttér
+Az áramkör arról kapja a nevét, hogy az ellenállásokat a görög "Π" formájában kötjük össze. Az érétkeket a következő képletekkel számoljuk ki:
+A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia illesztésének és a jel csillapításának. Az R3 és R4 ellenállások közötti viszonyok meghatározzák a hálózat teljesítményét és a kimeneti jelet.
 
-
----
-
-## 2. Alkalmazott mérőeszközök és készülékek
-
-| Műszer neve                         | Típus       | Gyártási szám |
-| ----------------------------------- | ----------- | ------------- |
-| Programozható antennaerősítő-szűrő  | Johansson   | 6700          |
-| Antenna                             | Iskra       | P20, P2845    |
-| Antenna                             | IKUSI       | FLASHD C48    |
-| Spectrum Analizátor                 | Metek       | HDD           |
-
----
-
-### 3. **Mérési helyszín és környezet**
-- **Antenna magassága**: 
-- **Környezet jellemzői**: V3 labor, városi körülmények, iskola falain belül
-- **Adó távolsága**: 
-
----
-
-## 4. Antennák teljesítménye különböző frekvenciákon
-
-| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
-| ---------------- | ---------------- | -------------- | -------- | ------------------ |
-|      | Iskra P20        |                |     |           |
-|                  | ISKRA P2845      |                |     |           |
-|                  | IKUSI FLASHD C48 |                |     |           |
-|      | Iskra P20        |                |     |           |
-|                  | ISKRA P2845      |                |     |           |
-|                  | IKUSI FLASHD C48 |                |     |           |
-|     | Iskra P20        |                |     |           |
-|                  | ISKRA P2845      |                |     |           |
-|                  | IKUSI FLASHD C48 |                |     |           |
-
----
-
-## 5. Mérési eredmények elemzése
-
----
-
-## 6. Konklúzió
-
----
-
-## 7. Mérési nehézségek és eltérések
-
----
-
-## 8. Grafikus ábrázolás
+## Számítások
 
 
----
-
-## 9. Javaslatok
-
----
-
-## 10. P-20 Képek:
-<details>
-<summary>Kattins a részletekért</summary>
-
-**474Mhz Mért Képek:**
-    <img />
-    <img />
-
----
-
-**570MHz Mért Képek**
-    <img />
-    <img />
-
----
-
-**706MHz Mért Képek**
-    <img />
-    <img />
-
----
-
-</details>
-
-<br>
-
-## 11. P-2845 Képek:
-<details>
-
-<summary>Kattins a részletekért</summary>
-
-**474Mhz Mért Képek:**
-    <img />
-    <img />
-
----
-
-**570MHz Mért Képek**
-    <img/>
-    <img />
-
----
-
-**706MHz Mért Képek**
-    <img />
-    <img/>
-
----
-
-</details>
-
-<br>
-
-## 12. FlashHD C-48 Képek:
-<details>
-<summary>Kattins a részletekért</summary>
-
-**474Mhz Mért Képek:**
-    <img />
-    <img />
-
----
-
-**570MHz Mért Képek**
-    <img />
-    <img />
-
----
-
-**706MHz Mért Képek**
-    <img/>
-    <img />
-
----
-
-</details>
+## Eszközök
+- Ellenállások:
+  - R3 = 1,5 kΩ
+  - R4 = 11,81 kΩ
+- Ni myDAQ 
 
 
-<br>
+## Ábra
+**PI Ellenállás-hálózat**
 
-**Aláírás:** Orosz Szabolcs
 
-**Dátum:** 2024. 11. 12
