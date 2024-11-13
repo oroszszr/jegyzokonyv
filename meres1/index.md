@@ -32,40 +32,43 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 
 ## Csillapítási Eredmények
 
-### Megadott Értékek
-- **Bemeneti Feszültség ($V_{in}$)**: 10.088 V
-- **Kimeneti Feszültség ($V_{out}$)**: 5.366 V
+### Megadott Értékek  
+- **Bemeneti Feszültség ($V_{in}$)**: 10.088 V  
+- **Kimeneti Feszültség ($V_{out}$)**: 5.366 V  
 
-### Csillapítás Kiszámítása (dB)
-A csillapítást a következő képlettel számoltuk ki:
+### Csillapítás Kiszámítása (dB)  
 
-$$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
+A csillapítást a következő képlettel számoltuk ki:  
 
-1. **Hányados Számítása:**
-   $$\frac{V_{out}}{V_{in}} = \frac{5.366}{10.088} \approx 0.532$$
+$$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$  
 
-2. **Logaritmus Számítása:**
-   $$\log_{10}(0.532) \approx -0.273$$
+1. **Hányados Számítása:**  
+   $$\frac{V_{out}}{V_{in}} = \frac{5.366}{10.088} \approx 0.532$$  
 
-3. **Csillapítás Kiszámítása:**
-   $$A \approx 20 \cdot (-0.273) \approx -5.46 \, \text{dB}$$
+2. **Logaritmus Számítása:**  
+   $$\log_{10}(0.532) \approx -0.273$$  
 
-### Százalékos Csillapítás Kiszámítása
-A százalékos csillapítást a következő képlettel számoltuk ki:
+3. **Csillapítás Kiszámítása:**  
+   $$A \approx 20 \cdot (-0.273) \approx -5.46 \, \text{dB}$$  
 
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$
+### Százalékos Csillapítás Kiszámítása  
 
-1. **Csillapítás Kiszámítása:**
-   $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
+A százalékos csillapítást a következő képlettel számoltuk ki:  
+
+$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
+
+1. **Csillapítás Kiszámítása:**  
+   $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
 
 ### Eredmények
-- **Csillapítás (dB)**: -5.46 dB
-- **Csillapítás (%)**: 46.8%
+- **Csillapítás (dB)**: -5.46 dB  
+- **Csillapítás (%)**: 46.8%  
 
 
-### Százalékos Csillapítás Kiszámítása:
-A százalékos csillapítást a következő képlettel számolhatjuk ki:  
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
+### Százalékos Csillapítás Kiszámítása:  
+A százalékos csillapítást a következő képlettel számolhatjuk ki:   
+
+$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$    
 
 Ez alapján a csillapítás körülbelül **11.3%**.
 
