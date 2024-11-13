@@ -25,7 +25,7 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 - Ni myDAQ 
 
 ## Számítások
-<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="300" height="170">  
+<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/keplet.PNG" width="300" height="170">  
 
 ### Csillapítás Kiszámítása
 
