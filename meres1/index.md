@@ -37,9 +37,7 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 - **Kimeneti Feszültség ($V_{out}$)**: 5.366 V  
 
 ### Csillapítás Kiszámítása (dB)  
-
 A csillapítást a következő képlettel számoltuk ki:  
-
 $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$  
 
 1. **Hányados Számítása:**  
@@ -52,25 +50,17 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
    $$A \approx 20 \cdot (-0.273) \approx -5.46 \, \text{dB}$$  
 
 ### Százalékos Csillapítás Kiszámítása  
-
 A százalékos csillapítást a következő képlettel számoltuk ki:  
-
 $$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
 
 1. **Csillapítás Kiszámítása:**  
-   $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
+$$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
 
 ### Eredmények
 - **Csillapítás (dB)**: -5.46 dB  
 - **Csillapítás (%)**: 46.8%  
 
 
-### Százalékos Csillapítás Kiszámítása:  
-A százalékos csillapítást a következő képlettel számolhatjuk ki:   
-
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$    
-
-Ez alapján a csillapítás körülbelül **11.3%**.
 
 ### A kapcsolási rajz ábrázolja a Pi csillapítót az kiszámított ellenállás értékekkel:
 
