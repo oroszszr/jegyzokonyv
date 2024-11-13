@@ -19,9 +19,12 @@ Az áramkör arról kapja a nevét, hogy az ellenállásokat a görög "Π" form
 A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia illesztésének és a jel csillapításának. Az R3 és R4 ellenállások közötti viszonyok meghatározzák a hálózat teljesítményét és a kimeneti jelet.
 
 ## Eszközök
-- Ellenállások:
-  - R3 = 11,92 kΩ
-  - R4 = 1,5 kΩ
+- Elméletbeli Ellenállások:
+  - R3 = 2046 Ω
+  - R4 = 508 Ω
+- Gyakorlati  ellenállások
+  - R3 = 2,2 kΩ
+  - R4 = 
 - Ni myDAQ 
 
 ## Számítások
@@ -54,9 +57,13 @@ $$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100
 
 Ez alapján a csillapítás körülbelül **11.3%**.
 
-### A kapcsolási rajz ábrázolja a Ni myDAQ a belső ellenállásával, valamint a Pi csillapítót a kiszámolt ellenállás értékekkel:
+### A kapcsolási rajz ábrázolja a Ni myDAQ a belső ellenállásával, valamint a Pi csillapítót a elméleti ellenállás értékekkel:
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
+
+### A kapcsolási rajz ábrázolja a Ni myDAQ a belső ellenállásával, valamint a Pi csillapítót a kiszámított ellenállás értékekkel:
+
+
 
 ## Mérési eredmények
 
