@@ -71,29 +71,29 @@ $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 - **Bemeneti Feszültség ($V_{in}$)**: 10 V
 - **Kimeneti Feszültség ($V_{out}$)**: 5.011 V
 
-### Csillapítás Kiszámítása (dB)
-A csillapítást a következő képlettel számoltuk ki:
-$$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
+### Csillapítás Kiszámítása (dB)  
+A csillapítást a következő képlettel számoltuk ki:  
+$$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$  
 
-1. **Hányados Számítása:**
-   $$\frac{V_{out}}{V_{in}} = \frac{5.011}{10} = 0.5011$$
+1. **Hányados Számítása:**  
+   $$\frac{V_{out}}{V_{in}} = \frac{5.011}{10} = 0.5011$$  
 
-2. **Logaritmus Számítása:**
-   $$\log_{10}(0.5011) \approx -0.299$$
+2. **Logaritmus Számítása:**  
+   $$\log_{10}(0.5011) \approx -0.299$$  
 
-3. **Csillapítás Kiszámítása:**
-   $$A \approx 20 \cdot (-0.299) \approx -5.98 \, \text{dB}$$
+3. **Csillapítás Kiszámítása:**  
+   $$A \approx 20 \cdot (-0.299) \approx -5.98 \, \text{dB}$$  
 
-### Százalékos Csillapítás Kiszámítása
-A százalékos csillapítást a következő képlettel számoltuk ki:
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$
+### Százalékos Csillapítás Kiszámítása  
+A százalékos csillapítást a következő képlettel számoltuk ki:  
+$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
 
-1. **Csillapítás Kiszámítása:**
-$$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89\%$$
+1. **Csillapítás Kiszámítása:**  
+$$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89 \%$$  
 
 ### Eredmények
 - **Csillapítás (dB)**: -5.98 dB
-- **Csillapítás (%)**: 49.89%
+- **Csillapítás (%)**: 49.89 %
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
 
