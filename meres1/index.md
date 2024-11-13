@@ -104,5 +104,5 @@ A PI csillapító (PI pad) ellenállásos áramkör elemzése során megállapí
 A PI csillapító áramkör sikeresen megvalósult, és a tesztelési eredmények azt jelzik, hogy a csillapítási teljesítmény összhangban van a tervezett specifikációkkal. A mérések alapján a csillapító hatás a kívánt frekvenciatartományban optimális, és a jelminőség megőrzése is megfelelő. A projekt során szerzett tapasztalatok alapján fontos, hogy a tervezési folyamat során figyelembe vegyük a komponensek toleranciáját és a környezeti hatásokat, mivel ezek jelentős hatással lehetnek az áramkör teljesítményére.
 
 ### Aláírás:
-Felelős mérő személy: ..............................
-Dátum: 2024.11.13 
+Felelős mérő személy: ..............................  
+Dátum: 2024.11.13   
