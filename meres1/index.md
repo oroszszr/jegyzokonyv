@@ -30,26 +30,38 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 ## Számítások
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/keplet.PNG" width="300" height="170">  
 
-### Csillapítás Kiszámítása
+## Csillapítási Eredmények
 
-A csillapítást a következő képlettel számolhatjuk ki:  
-$$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$  
+### Megadott Értékek
+- **Bemeneti Feszültség ($V_{in}$)**: 10.088 V
+- **Kimeneti Feszültség ($V_{out}$)**: 5.366 V
 
-### Megadott Értékek:
-- $V_{out} = 6.657 \, \text{mV} = 0.006657 \, \text{V}$  
-- $V_{in} = 7.496 \, \text{mV} = 0.007496 \, \text{V}$  
+### Csillapítás Kiszámítása (dB)
+A csillapítást a következő képlettel számoltuk ki:
 
-### Kiszámítási Lépések:
+$$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
+
 1. **Hányados Számítása:**
-   $$\frac{0.006657}{0.007496} \approx 0.887$$  
+   $$\frac{V_{out}}{V_{in}} = \frac{5.366}{10.088} \approx 0.532$$
 
 2. **Logaritmus Számítása:**
-   $$\log_{10}(0.887) \approx -0.053$$  
+   $$\log_{10}(0.532) \approx -0.273$$
 
 3. **Csillapítás Kiszámítása:**
-   $$A \approx 20 \cdot (-0.053) \approx -1.06 \, \text{dB}$$
+   $$A \approx 20 \cdot (-0.273) \approx -5.46 \, \text{dB}$$
 
-Tehát a csillapítás körülbelül **-1.06 dB**
+### Százalékos Csillapítás Kiszámítása
+A százalékos csillapítást a következő képlettel számoltuk ki:
+
+$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$
+
+1. **Csillapítás Kiszámítása:**
+   $$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
+
+### Eredmények
+- **Csillapítás (dB)**: -5.46 dB
+- **Csillapítás (%)**: 46.8%
+
 
 ### Százalékos Csillapítás Kiszámítása:
 A százalékos csillapítást a következő képlettel számolhatjuk ki:  
