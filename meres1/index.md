@@ -62,7 +62,7 @@ $$\text{Csillapítás % } = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 
 ### Eredmények
 - **Csillapítás dB**: -5.46 dB  
-- **Csillapítás %**: 46.8%  
+- **Csillapítás %**: 46.8 %
 
 ### A kapcsolási rajz ábrázolja a Pi csillapítót a gyakorlati ellenállás értékekkel:
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad2.PNG" width="770" height="400">
