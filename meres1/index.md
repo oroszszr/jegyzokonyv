@@ -55,10 +55,10 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 
 ### Százalékos Csillapítás Kiszámítása  
 A százalékos csillapítást a következő képlettel számoltuk ki:  
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
+$$\text{Csillapítás % } = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
 
 1. **Csillapítás Kiszámítása:**  
-$$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
+$$\text{Csillapítás % } = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
 
 ### Eredmények
 - **Csillapítás (dB)**: -5.46 dB  
