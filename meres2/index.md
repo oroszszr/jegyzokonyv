@@ -54,7 +54,7 @@ A jelszint és a MER értékek vizuális megjelenítését az alábbi diagramok 
 ## Ajánlások
 Az **IKUSI FLASHD C48** antenna ajánlott elsődleges használatra, mivel a legtöbb frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Ha költséghatékonyabb megoldásra van szükség, az **ISKRA P2845** szintén megfelelő alternatíva lehet. Az **ISKRA P20** csak alacsonyabb frekvenciákon ajánlott, ahol még elfogadható teljesítményt nyújt.
 
-## 10. P-20 Képek:
+## P-20 Képek:
 <details>
 <summary>Kattins a részletekért</summary>
 
@@ -66,6 +66,54 @@ Az **IKUSI FLASHD C48** antenna ajánlott elsődleges használatra, mivel a legt
 
 **834MHz Mért Képek**
 ![its_snapshot_0022](https://github.com/user-attachments/assets/bf1d54d9-cda0-498d-93b2-1ac54792ba82)  
+
+---
+
+</details>
+
+## FlashHD C-48 Képek:
+<details>
+
+<summary>Kattins a részletekért</summary>
+
+**618Mhz Mért Képek:**
+ ![its_snapshot_0026](https://github.com/user-attachments/assets/c6fa5ee6-0ab8-4ef5-8d43-68fb212e1ef0)
+
+
+---
+
+**722MHz Mért Képek**
+  ![its_snapshot_0027](https://github.com/user-attachments/assets/551790d3-753d-4aba-b1a1-38d63aa39ea4)
+
+---
+
+**834MHz Mért Képek**
+ ![its_snapshot_0028](https://github.com/user-attachments/assets/542fd9a3-5724-433b-9637-72d5bf6be518)
+
+---
+
+</details>
+
+## P-2845 Képek:
+<details>
+
+<summary>Kattins a részletekért</summary>
+
+**618Mhz Mért Képek:**
+![its_snapshot_0025](https://github.com/user-attachments/assets/c644303f-8c7c-4ab9-8892-fbdfe678f168)
+
+
+---
+
+**722MHz Mért Képek**
+![its_snapshot_0024](https://github.com/user-attachments/assets/65449345-39f6-4b31-9c99-602bc66658b5)
+
+
+---
+
+**834MHz Mért Képek**
+![its_snapshot_0023](https://github.com/user-attachments/assets/acf267d9-503e-4d2f-831a-59cc1db31b1a)
+
 
 ---
 
