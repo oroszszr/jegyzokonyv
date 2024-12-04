@@ -29,12 +29,12 @@ A hallgatók ismerkedjenek meg a különböző antennák sajátosságaival, és 
 
 | Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
-| **618 MHz**      | Iskra P20        | -65.2          | 25.4     |     7.1 - 9.5      |
-|                  | ISKRA P2845      | -58.8          | 26.3     |          |
-|                  | IKUSI FLASHD C48 | -58.5          | 27.0     |          |
-| **722 MHz**      | Iskra P20        | -55.5          | 32.2     |     8.1 - 9.5      |
-|                  | ISKRA P2845      | -52.8          | 33.2     |          |
-|                  | IKUSI FLASHD C48 | -52.6          | 30.0     |          |
-| **834 MHz**      | Iskra P20        | -55.3          | 24.6     |     7.8 - 9.5      |
-|                  | ISKRA P2845      | -49.0          | 29.0     |          |
-|                  | IKUSI FLASHD C48 | -49.2          | 28.4     |          |
+| **618 MHz**      | Iskra P20        | -65.2          | 25.4     | 7.1 - 9.6          |
+|                  | ISKRA P2845      | -50.4          | 32.2     | 5.6 - 9.5          |
+|                  | IKUSI FLASHD C48 |         |    |          |
+| **722 MHz**      | Iskra P20        | -55.5          | 32.2     | 8.1 - 9.6          |
+|                  | ISKRA P2845      | -52.3          | 30.9     | 7.7 - 9.5          |
+|                  | IKUSI FLASHD C48 |           |      |          |
+| **834 MHz**      | Iskra P20        | -55.3          | 24.6     | 7.8 - 9.5          |
+|                  | ISKRA P2845      | -51.7          | 26.1     | 7.8 - 9.5          |
+|                  | IKUSI FLASHD C48 |           |         |          |
