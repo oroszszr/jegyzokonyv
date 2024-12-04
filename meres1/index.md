@@ -2,7 +2,7 @@
 # Méréstechnikai Feladat: PI Ellenállás-hálózat
 
 **A mérést végző neve:** Orosz Szabolcs és Csépke Péter  
-**A mérés tárgya:** Méréstechnikai Feladat: PI Ellenállás-hálózat  
+**A mérés tárgya:**  PI Ellenállás-hálózat  
 **A mérés száma:** 1. mérés  
 **A mérés dátuma:** 2024. 11. 13  
 **A mérést vezette:** Sándor Péter  
