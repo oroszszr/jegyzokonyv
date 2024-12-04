@@ -38,3 +38,12 @@ A hallgatók ismerkedjenek meg a különböző antennák sajátosságaival, és 
 | **834 MHz**      | Iskra P20        | -55.3          | 24.6     | 7.8 - 9.5          |
 |                  | ISKRA P2845      | -51.7          | 26.1     | 7.8 - 9.5          |
 |                  | IKUSI FLASHD C48 |           |         |          |
+
+##  Mérési eredmények 
+Az adatok alapján az alábbi következtetéseket lehet levonni:
+- **Jelszint (dBm)**: Az **ISKRA P2845** és az **IKUSI FLASHD C48** antennák általában jobban teljesítettek a jelszint tekintetében, különösen a 570 MHz frekvencián. Az **ISKRA P20** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
+- **MER (Modulation Error Ratio)**: A **MER** értékek alapján az **ISKRA P2845** antenna mutatta a legjobb teljesítményt, különösen a középső frekvencián (570 MHz), ahol a **MER** értéke 33.2 dB volt. Az **IKUSI FLASHD C48** antenna szintén jó **MER** értékeket ért el, de az **ISKRA P20** kicsit alulmaradt.
+- **Bitsebesség**: A bitsebesség szintén magasabb volt az **ISKRA P2845** és az **IKUSI FLASHD C48** esetében, míg az **ISKRA P20** antennánál kicsit alacsonyabb értékeket tapasztaltunk. A legmagasabb bitsebességet 570 MHz-en az **ISKRA P2845** érte el (10.0 Mbps).
+
+##  Tapasztalatok
+A végzett mérések alapján az ISKRA P2845 antenna bizonyult a legerősebbnek a jelszint, a MER és a bitsebesség szempontjából egyaránt. Az IKUSI FLASHD C48 szintén jól teljesített, míg az ISKRA P20 gyengébb eredményeket mutatott. Az antennák közötti eltérések egyértelműen megfigyelhetők a különböző frekvenciákon, különösen 618 MHz-en, ahol a legnagyobb teljesítménykülönbség volt észlelhető.
