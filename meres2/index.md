@@ -24,3 +24,17 @@ A hallgatók ismerkedjenek meg a különböző antennák sajátosságaival, és 
   - DVB-T vevő (pl. TV vagy mérőműszer)  
   - METEK HD spektrum/jelszint analizátor  
   - Laptop a jegyzőkönyv készítéséhez  
+
+## Antennák teljesítménye különböző frekvenciákon
+
+| Frekvencia (MHz) | Antenna          | Jelszint (dBm) | MER (dB) | Bitsebesség (Mbps) |
+| ---------------- | ---------------- | -------------- | -------- | ------------------ |
+| **618 MHz**      | Iskra P20        | -65.2          | 25.4     |     7.1 - 9.5      |
+|                  | ISKRA P2845      | -58.8          | 26.3     |          |
+|                  | IKUSI FLASHD C48 | -58.5          | 27.0     |          |
+| **722 MHz**      | Iskra P20        | -55.5          | 32.2     |     8.1 - 9.5      |
+|                  | ISKRA P2845      | -52.8          | 33.2     |          |
+|                  | IKUSI FLASHD C48 | -52.6          | 30.0     |          |
+| **834 MHz**      | Iskra P20        | -55.3          | 24.6     |     7.8 - 9.5      |
+|                  | ISKRA P2845      | -49.0          | 29.0     |          |
+|                  | IKUSI FLASHD C48 | -49.2          | 28.4     |          |
