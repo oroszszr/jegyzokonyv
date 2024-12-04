@@ -31,19 +31,43 @@ A hallgatók ismerkedjenek meg a különböző antennák sajátosságaival, és 
 | ---------------- | ---------------- | -------------- | -------- | ------------------ |
 | **618 MHz**      | Iskra P20        | -65.2          | 25.4     | 7.1 - 9.6          |
 |                  | ISKRA P2845      | -50.4          | 32.2     | 5.6 - 9.5          |
-|                  | IKUSI FLASHD C48 |         |    |          |
+|                  | IKUSI FLASHD C48 | -49.2          | 34.2     | 8.0 - 10.3         |
 | **722 MHz**      | Iskra P20        | -55.5          | 32.2     | 8.1 - 9.6          |
 |                  | ISKRA P2845      | -52.3          | 30.9     | 7.7 - 9.5          |
-|                  | IKUSI FLASHD C48 |           |      |          |
+|                  | IKUSI FLASHD C48 | -53.2          | 33.3     | 7.4 - 10.6         |
 | **834 MHz**      | Iskra P20        | -55.3          | 24.6     | 7.8 - 9.5          |
 |                  | ISKRA P2845      | -51.7          | 26.1     | 7.8 - 9.5          |
-|                  | IKUSI FLASHD C48 |           |         |          |
+|                  | IKUSI FLASHD C48 | -65.2          | 23.3     | 7.8 - 9.3          |
 
 ##  Mérési eredmények 
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 - **Jelszint (dBm)**: Az **ISKRA P2845** és az **IKUSI FLASHD C48** antennák általában jobban teljesítettek a jelszint tekintetében, különösen a 570 MHz frekvencián. Az **ISKRA P20** antenna alacsonyabb jelszintet produkált mindhárom frekvencián.
-- **MER (Modulation Error Ratio)**: A **MER** értékek alapján az **ISKRA P2845** antenna mutatta a legjobb teljesítményt, különösen a középső frekvencián (570 MHz), ahol a **MER** értéke 33.2 dB volt. Az **IKUSI FLASHD C48** antenna szintén jó **MER** értékeket ért el, de az **ISKRA P20** kicsit alulmaradt.
-- **Bitsebesség**: A bitsebesség szintén magasabb volt az **ISKRA P2845** és az **IKUSI FLASHD C48** esetében, míg az **ISKRA P20** antennánál kicsit alacsonyabb értékeket tapasztaltunk. A legmagasabb bitsebességet 570 MHz-en az **ISKRA P2845** érte el (10.0 Mbps).
+- **MER (Modulation Error Ratio)**: A **MER** értékek alapján az **IKUSI FLASHD C48** antenna mutatta a legjobb teljesítményt, különösen a középső frekvencián (722 MHz), ahol a **MER** értéke 34.2 dB volt. Az **ISKRA P2845** antenna szintén jó **MER** értékeket ért el, de az **ISKRA P20** kicsit alulmaradt.
+- **Bitsebesség**: A bitsebesség szintén magasabb volt az **ISKRA P2845** és az **IKUSI FLASHD C48** esetében, míg az **ISKRA P20** antennánál kicsit alacsonyabb értékeket tapasztaltunk. A legmagasabb bitsebességet 722 MHz-en az **ISKRA P2845** érte el (10.6 Mbps).
 
 ##  Tapasztalatok
-A végzett mérések alapján az **ISKRA P2845** antenna bizonyult a legerősebbnek a jelszint, a MER és a bitsebesség szempontjából egyaránt. Az **IKUSI FLASHD C48** szintén jól teljesített, míg az **ISKRA P20** gyengébb eredményeket mutatott. Az antennák közötti eltérések egyértelműen megfigyelhetők a különböző frekvenciákon, különösen **618** MHz-en, ahol a legnagyobb teljesítménykülönbség volt észlelhető.
+A végzett mérések alapján az **ISKRA P2845** antenna bizonyult a legerősebbnek a jelszint, a MER és a bitsebesség szempontjából egyaránt, kivéve a legmagasabb (824MHz) frekvencián. Az **IKUSI FLASHD C48** szintén jól teljesített, míg az **ISKRA P20** gyengébb eredményeket mutatott. Az antennák közötti eltérések egyértelműen megfigyelhetők a különböző frekvenciákon, különösen **618** MHz-en, ahol a legnagyobb teljesítménykülönbség volt észlelhető.
+
+##  Grafikus ábrázolás
+A jelszint és a MER értékek vizuális megjelenítését az alábbi diagramok szemléltetik:
+
+## Ajánlások
+Az **IKUSI FLASHD C48** antenna ajánlott elsődleges használatra, mivel a legtöbb frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Ha költséghatékonyabb megoldásra van szükség, az **ISKRA P2845** szintén megfelelő alternatíva lehet. Az **ISKRA P20** csak alacsonyabb frekvenciákon ajánlott, ahol még elfogadható teljesítményt nyújt.
+
+## 10. P-20 Képek:
+<details>
+<summary>Kattins a részletekért</summary>
+
+**722MHz Mért Képek**
+![its_snapshot_0021](https://github.com/user-attachments/assets/4cb4c9c1-b9d1-4886-9cd6-85c5d16ca6a1)  
+
+
+---
+
+**834MHz Mért Képek**
+![its_snapshot_0022](https://github.com/user-attachments/assets/bf1d54d9-cda0-498d-93b2-1ac54792ba82)  
+
+---
+
+</details>
+
