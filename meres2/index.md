@@ -52,6 +52,10 @@ A végzett mérések alapján az **ISKRA P2845** antenna bizonyult a legerősebb
 ## Ajánlások
 Az **IKUSI FLASHD C48** antenna ajánlott elsődleges használatra, mivel a legtöbb frekvencián magasabb jelszintet és jobb jelminőséget biztosított. Ha költséghatékonyabb megoldásra van szükség, az **ISKRA P2845** szintén megfelelő alternatíva lehet. Az **ISKRA P20** csak alacsonyabb frekvenciákon ajánlott, ahol még elfogadható teljesítményt nyújt.
 
+## Grafikus ábrázolás
+A jelszint és MER értékek vizuális ábrázolását az alábbi diagramok mutatják be:
+![Untitled design](https://github.com/user-attachments/assets/d8e08d1b-6b40-450d-ada1-8ee0d96c9f71)
+
 ## P-20 Képek:
 <details>
 <summary>Kattins a részletekért</summary>
