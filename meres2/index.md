@@ -1,5 +1,5 @@
 # MÉRÉSI JEGYZŐKÖNYV
-# A különböző típusú antennák teljesítménye és a vételi jelminőség összehasonlítása.  
+## A különböző típusú antennák teljesítménye és a vételi jelminőség összehasonlítása.  
 
 **A mérést végző neve:** Orosz Szabolcs és Csépke Péter  
 **A mérés tárgya:** A különböző típusú antennák teljesítménye és a vételi jelminőség összehasonlítása.  
