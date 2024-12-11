@@ -44,11 +44,8 @@ A T pad egy olyan speciális csillapító áramkör az elektronikában, amelynek
 T tagú csillapítás szimulációja  
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.  
 
-<a target="_blank" href="https://tinyurl.com/kzpv88md">
-  
-![Szimuláció](![image](https://github.com/user-attachments/assets/8a2c18bb-cf51-4405-9e2b-6693dd62d2b1)
-)
+![image](https://github.com/user-attachments/assets/7dd5bd4c-5353-4835-892f-dc8edbce2f8f)
 
-</a>
+
 
 
