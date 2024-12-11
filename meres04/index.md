@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 # Méréstechnikai Feladat: T Ellenállás-hálózat
 
-**A mérést végző neve:** Orosz Szabolcs és Csépke Péter  
+**A mérést végző neve:** Orosz Szabolcs, Csépke Péter  és nemutolsó sorban Horvát Martin
 **A mérés tárgya:**  T Ellenállás-hálózat  
 **A mérés száma:** 01. mérés  
 **A mérés dátuma:** 2024. 12. 11.  
@@ -58,8 +58,8 @@ A feladatban használt és az elméleti eredmények eltérőek egymástól, mive
 T tagú csillapítás szimulációja  
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.  
 
-## Breadboardon összerakott kapcsolás
-![1000268517](https://github.com/user-attachments/assets/fc66957c-eb48-4dc0-ae59-916f6f511418)
+## Breadboardon összerakott kapcsolás  
+![image](https://github.com/user-attachments/assets/831ca6c4-4a58-4383-bc58-1cc7f7c5b499)
 
 ## Elméletben használt adatokkal
 
