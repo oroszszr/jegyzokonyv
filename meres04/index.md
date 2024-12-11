@@ -16,6 +16,11 @@
 A falstad.com szimulációs programban megépítettük az áramkört és leszimuláltuk. Mindezekután ellenőriztük a csillapítást és az áramkör helyes működését.
 A legvégén használtunk a magadaott értékekhez legközelebbi ellenállásokat.
 
+## Elmélet
+A T pad egy olyan speciális csillapító áramkör az elektronikában, amelynek topológiája a "T" betű formájában van megtervezve.
+Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálnak, és párnáknak is nevezik, mivel akusztikailag "lepárolják" a jelet. Lapfrekvenciás csillapítók, amelyek minden frekvenciát egyformán csillapítanak a működési sávban. Feladatuk ellentétes az erősítőkénél, és általában egyszerű szűrőszakaszok topológiáját követik.  
+
+![image](https://github.com/user-attachments/assets/f8a050fe-b4bb-428d-aca4-6a32b5ef768d)  
 
 ## Eszközök  
   - Multiméter  
@@ -33,13 +38,26 @@ A legvégén használtunk a magadaott értékekhez legközelebbi ellenállásoka
   - **méréskor használt:**  
     - Rg = 2,2 kΩ X 2,2 kΩ  
     - R1 = 220 + 220 Ω 
-    - R2 = 2.2 kΩ 
+    - R2 = 2.2 kΩ
 
-## Elmélet
-A T pad egy olyan speciális csillapító áramkör az elektronikában, amelynek topológiája a "T" betű formájában van megtervezve.
-Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálnak, és párnáknak is nevezik, mivel akusztikailag "lepárolják" a jelet. Lapfrekvenciás csillapítók, amelyek minden frekvenciát egyformán csillapítanak a működési sávban. Feladatuk ellentétes az erősítőkénél, és általában egyszerű szűrőszakaszok topológiáját követik.
+## Mérési eredmények:
+  - Bemeneti impedancia (Ω)
+  - Kimeneti impedancia (Ω)
+  - Átviteli arány (dB)
+  - Csillapítás (dB)
 
-![image](https://github.com/user-attachments/assets/f8a050fe-b4bb-428d-aca4-6a32b5ef768d)
+## Számítások:
+
+  $R1,2 = Z \times ( \frac {K - 1} {K + 1} ) = 1500 \times ( \frac {1,9953 - 1}  {1,9953 + 1} ) = 498$  
+  
+  $R3 = 2Z \times (\frac {K} {K^2 - 1}) = 2 \times 1500 \times (\frac {1,9953} {1,9953^2 - 1}) = 2007$  
+  
+  Z = 1500 Ω  
+  K = 1.9953  
+  Csillapítás: 6dB  
+  
+## Eredmények összehasonlítása: 
+
 
 ## Szimuláció
 T tagú csillapítás szimulációja  
@@ -54,7 +72,4 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 ![image](https://github.com/user-attachments/assets/c217fba1-10b3-4275-9b3a-a2e50861495d)
 
 
-
-
-
-
+## Megjegyzések: 
