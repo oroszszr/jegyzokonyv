@@ -12,8 +12,10 @@
 **Helyszín:** V3 Labor  
 
 ## Feladatleírás  
+680 Ohm impeddenciához illesztve kiszámítjuk a T-tag ellenállások értékeit, ahhoz, hogy 6 dB csillapítást kapjunk.
+A falstad.com szimulációs programban megépítettük az áramkört és leszimuláltuk. Mindezekután ellenőriztük a csillapítást és az áramkör helyes működését.
+A legvégén használtunk a magadaott értékekhez legközelebbi ellenállásokat.
 
-680 Ohm impedanciához illesztve számítsd ki a T-tag ellenállásai értékét úgy, hogy 6dB csillapítás legyen! A falstad.com szimulátorban építsd meg az áramkört és ellenőrizd a 6dB csillapítást, hogy helyesen működik-e a hálózat. Végezetül használj a kiszámított értékekhez közeli ellenállásokat.
 
 ## Eszközök  
   - Multiméter  
