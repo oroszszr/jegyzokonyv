@@ -25,17 +25,30 @@ A legvégén használtunk a magadaott értékekhez legközelebbi ellenállásoka
   - Oszcilloszkóp  
   - vagy NI MYDAQ  
 
-##  Használt Ellenállások:  
+##  Ellenállások értékei:  
   - **számolás alapján:**  
-    - Rg = 1100 Ω  
-    - R1 = 367 Ω  
-    - R2 = 1.473 kΩ  
+    - Rg = 1.5 kΩ  
+    - R1 = 498 Ω  
+    - R2 = 2 kΩ  
   - **méréskor használt:**  
     - Rg = 2,2 kΩ X 2,2 kΩ  
-    - R1 = 220 Ω + 120 Ω  
-    - R2 = 1.5 kΩ  
+    - R1 = 220 + 220 Ω 
+    - R2 = 2.2 kΩ 
 
 ## Elmélet
 A T pad egy olyan speciális csillapító áramkör az elektronikában, amelynek topológiája a "T" betű formájában van megtervezve.
 
 ![image](https://github.com/user-attachments/assets/f8a050fe-b4bb-428d-aca4-6a32b5ef768d)
+
+## Szimuláció
+T tagú csillapítás szimulációja  
+A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.  
+
+<a target="_blank" href="https://tinyurl.com/kzpv88md">
+  
+![Szimuláció](![image](https://github.com/user-attachments/assets/8a2c18bb-cf51-4405-9e2b-6693dd62d2b1)
+)
+
+</a>
+
+
