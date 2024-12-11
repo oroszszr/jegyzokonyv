@@ -59,7 +59,7 @@ T tagú csillapítás szimulációja
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.  
 
 ## Breadboardon összerakott kapcsolás
-
+![1000268517](https://github.com/user-attachments/assets/fc66957c-eb48-4dc0-ae59-916f6f511418)
 
 ## Elméletben használt adatokkal
 
