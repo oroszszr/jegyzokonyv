@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 # Méréstechnikai Feladat: T Ellenállás-hálózat
 
-**A mérést végző neve:** Orosz Szabolcs, Csépke Péter  és nemutolsó sorban Horvát Martin
+**A mérést végző neve:** Orosz Szabolcs, Csépke Péter  és nemutolsó sorban Horvát Martin  
 **A mérés tárgya:**  T Ellenállás-hálózat  
 **A mérés száma:** 01. mérés  
 **A mérés dátuma:** 2024. 12. 11.  
