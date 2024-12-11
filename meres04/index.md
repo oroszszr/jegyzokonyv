@@ -22,7 +22,7 @@ A T ellenállás-hálózat jellemzőinek meghatározása.
   - Oszcilloszkóp
   - vagy NI MYDAQ
 
-## - ** Használt Ellenállások:**
+##  Használt Ellenállások:
   - **számolás alapján:**
     - Rg = 1100 Ω
     - R1 = 367 Ω
