@@ -37,6 +37,7 @@ A legvégén használtunk a magadaott értékekhez legközelebbi ellenállásoka
 
 ## Elmélet
 A T pad egy olyan speciális csillapító áramkör az elektronikában, amelynek topológiája a "T" betű formájában van megtervezve.
+Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálnak, és párnáknak is nevezik, mivel akusztikailag "lepárolják" a jelet. Lapfrekvenciás csillapítók, amelyek minden frekvenciát egyformán csillapítanak a működési sávban. Feladatuk ellentétes az erősítőkénél, és általában egyszerű szűrőszakaszok topológiáját követik.
 
 ![image](https://github.com/user-attachments/assets/f8a050fe-b4bb-428d-aca4-6a32b5ef768d)
 
@@ -44,7 +45,15 @@ A T pad egy olyan speciális csillapító áramkör az elektronikában, amelynek
 T tagú csillapítás szimulációja  
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.  
 
-![image](https://github.com/user-attachments/assets/7dd5bd4c-5353-4835-892f-dc8edbce2f8f)
+## Elméletben használt adatokkal
+
+![image](https://github.com/user-attachments/assets/0503a83c-e624-4708-952e-9f4090244985)
+
+## Gyakorlatban kiszámolt adatokkal
+
+![image](https://github.com/user-attachments/assets/c217fba1-10b3-4275-9b3a-a2e50861495d)
+
+
 
 
 
