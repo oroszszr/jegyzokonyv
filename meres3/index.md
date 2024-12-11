@@ -1,4 +1,3 @@
-
 # MÉRÉSI JEGYZŐKÖNYV
 ## Johansson 6700 Profiler programozható antennaerősítő-szűrő használata
 
@@ -7,6 +6,11 @@
 **A mérés száma:** 07. mérés  
 **A mérés dátuma:** 2024. 12. 11.  
 **A mérést vezette:** Sándor Péter  
+
+**Évfolyam:** 13. E  
+**Csoport:** GYAK 2  
+**Helyszín:** V3 Labor  
+# MÉRÉSI JEGYZŐKÖNYV
 
 A következő feladatot hárman csináltuk meg az eszközök hiánya miatt és az egyszerűség kedvéért.  
 
