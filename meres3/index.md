@@ -8,5 +8,5 @@
 **A mérés dátuma:** 2024. 12. 11.  
 **A mérést vezette:** Sándor Péter  
 
-A következő feladatot hárman csináltuk meg az eszközök hiánya miatt.  
+A következő feladatot hárman csináltuk meg az eszközök hiánya miatt és az egyszerűség kedvéért.
 
