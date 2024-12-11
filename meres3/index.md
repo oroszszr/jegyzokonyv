@@ -8,5 +8,8 @@
 **A mérés dátuma:** 2024. 12. 11.  
 **A mérést vezette:** Sándor Péter  
 
-A következő feladatot hárman csináltuk meg az eszközök hiánya miatt és az egyszerűség kedvéért.
+A következő feladatot hárman csináltuk meg az eszközök hiánya miatt és az egyszerűség kedvéért.  
+
+## Célkitűzés  
+A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler antennaerősítő-szűrő beállításainak gyakorlati alkalmazásával különböző antennák jeleinek kezelésében. A feladat során a diákok beállítják a csatornákat, optimalizálják a jelszinteket, és spektrum analizátor segítségével elemzik a bejövő és kimenő jeleket.
 
