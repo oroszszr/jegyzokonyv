@@ -40,12 +40,6 @@ Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálna
     - R1 = 220 + 220 Ω 
     - R2 = 2.2 kΩ
 
-## Mérési eredmények:
-  - Bemeneti impedancia (Ω)
-  - Kimeneti impedancia (Ω)
-  - Átviteli arány (dB)
-  - Csillapítás (dB)
-
 ## Számítások:
 
   $R1,2 = Z \times ( \frac {K - 1} {K + 1} ) = 1500 \times ( \frac {1,9953 - 1}  {1,9953 + 1} ) = 498$  
@@ -57,11 +51,15 @@ Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálna
   Csillapítás: 6dB  
   
 ## Eredmények összehasonlítása: 
+A feladatban használt és az elméleti eredmények eltérőek egymástól, mivel nincs ugyanolyan értékű ellenállás és figyelembe kell venni a mérésben felhasznált eszközök belső ellenállásait.
 
 
 ## Szimuláció
 T tagú csillapítás szimulációja  
 A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékonyan csökkenti a rezgés amplitúdóját.  
+
+## Breadboardon összerakott kapcsolás
+
 
 ## Elméletben használt adatokkal
 
@@ -71,5 +69,20 @@ A T-tagú csillapítás szimulációja megmutatja, hogy a T-tag milyen hatékony
 
 ![image](https://github.com/user-attachments/assets/c217fba1-10b3-4275-9b3a-a2e50861495d)
 
+## Oszcilloszkóppal készült kép
+
+![Képernyőkép 2024-12-11 132340](https://github.com/user-attachments/assets/473fe8b5-d12a-427f-8c9c-4e72bb0e0265)
+
+
 
 ## Megjegyzések: 
+A T csillapító áramkörrel kapcsolatos főbb nehézségek a következők:
+
+Impedancia illesztés: Visszaverődések problémája.  
+Frekvencia válasz: Csillapítási eltérések különböző frekvenciákon.  
+Hőtermelés: Túlmelegedés kockázata.  
+Zaj: Jelminőség romlása.  
+Tolerancia: Alkatrészek eltéréseinek hatása.  
+Szimmetria: Aszimmetrikus elrendezés következményei.  
+Környezet: Hőmérséklet és páratartalom hatásai.  
+Ezek a tényezők befolyásolják a rendszer teljesítményét és megbízhatóságát.  
