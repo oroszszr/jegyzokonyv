@@ -27,8 +27,10 @@ A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler an
   - Koaxiális kábelek  
   - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez
 
-## Alap földfelszíni csatornakiosztás
+## Alap földfelszíni csatornakiosztás  
+![image](https://github.com/user-attachments/assets/966390b0-0cb4-4f05-874f-6969ff4db907)
 
+## Áthelyezett csatornakiosztás  
 ![image](https://github.com/user-attachments/assets/5bca6b77-ac86-4250-8d6f-fd0f6557e686)
 
 ## Mérési táblázat
