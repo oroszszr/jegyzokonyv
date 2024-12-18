@@ -27,7 +27,7 @@ A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler an
   - Koaxiális kábelek  
   - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez
 
-## Földfelszíni csatornák
+## Alap földfelszíni csatornakiosztás
 
 ![image](https://github.com/user-attachments/assets/5bca6b77-ac86-4250-8d6f-fd0f6557e686)
 
@@ -41,3 +41,10 @@ A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler an
 | DVB-T Szoba Antenna | 41         | 44            | 634 MHz            | 658 MHz                |             43          | ~100           |
 | DVB-T Szoba Antenna | 45         | 45            | 666 MHz            | 666 MHz                |             60          | ~100           |
 | DVB-T Szoba Antenna | 48         | 46            | 690 MHz            | 674 MHz                |             53          | ~100           |
+
+## 
+
+## Áthelyezett csatornák
+
+![image](https://github.com/user-attachments/assets/8a464bbf-7419-45c1-8628-a1ae3088e1e8)
+
