@@ -11,8 +11,6 @@
 **Csoport:** GYAK 2  
 **Helyszín:** V3 Labor  
 
-# MÉRÉSI JEGYZŐKÖNYV  
-
 A következő feladatot hárman csináltuk meg az eszközök hiánya, gyorsaság miatt és az egyszerűség kedvéért.  
 
 ## Célkitűzés  
