@@ -33,7 +33,7 @@ A következő képeken láthatjuk az avasi digitális földfelszíni televízió
 ![image](https://github.com/user-attachments/assets/966390b0-0cb4-4f05-874f-6969ff4db907)  
 
 ## Áthelyezett csatornakiosztás  
-Az alap adásokat egymást követő csatornákra helyzetük át. (pl CCH31-ről CH42-re, CH35-ról CH43-ra)
+Az alap adásokat egymást követő csatornákra helyzetük át. (pl CH31-ről CH42-re, CH35-ról CH43-ra)
 ![image](https://github.com/user-attachments/assets/8a464bbf-7419-45c1-8628-a1ae3088e1e8)  
 
 
@@ -48,6 +48,8 @@ Az alap adásokat egymást követő csatornákra helyzetük át. (pl CCH31-ről 
 | DVB-T Szoba Antenna | 45         | 45            | 666 MHz            | 666 MHz                |             60          | ~100           |
 | DVB-T Szoba Antenna | 48         | 46            | 690 MHz            | 674 MHz                |             53          | ~100           |
 
+## Tapasztalatok  
+A mérés folyamán keresztül gyorstalpalót kaptunk a Johannson 6700-as antennaerősítű-szűrő használatáról. Sikeresen áthelyeztük a csatornákat és a bejövő jelet felerősítettük 100dB-re.
 
-
-
+## Mérési nehézségek és eltérések  
+Akadtak mérési nehézségek és eltérések az interferencia, sűrű köd és a rossz időjárási körülmények miatt. Eltérések lehetnek a mérésekkel kapcsolatban, a műszer belső beállításai eltérhetnek és a kimeneti jelszinten körülbelüli értéket írtunk le mert elhanyagolható a jelszintbeli különbség (pár tized dB).
