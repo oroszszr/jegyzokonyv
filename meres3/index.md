@@ -15,7 +15,7 @@
 A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler antennaerősítő-szűrő beállításainak gyakorlati alkalmazásával különböző antennák jeleinek kezelésében. A feladat során a diákok beállítják a csatornákat, optimalizálják a jelszinteket, és spektrum analizátor segítségével elemzik a bejövő és kimenő jeleket.
 
 ## Adó és vevő távolsága  
-Az iskola és az avasi adótorony közötti távolság szemléltetve
+Az iskola és az avasi adótorony közötti távolság szemléltetve  
 ![image](https://github.com/user-attachments/assets/aeb868db-462a-44dc-9758-79933fe6270d)
 
 
@@ -27,7 +27,7 @@ Az iskola és az avasi adótorony közötti távolság szemléltetve
   - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez
 
 ## Alap földfelszíni csatornakiosztás  
-A következő képeken láthatjuk az avasi digitális földfelszíni televíziók (DVB-T) csatornáit és a spektrumanalizátoron látható jeleket.
+A következő képeken láthatjuk az avasi digitális földfelszíni televíziók (DVB-T) csatornáit és a spektrumanalizátoron látható jeleket.  
 
 ![image](https://github.com/user-attachments/assets/5bca6b77-ac86-4250-8d6f-fd0f6557e686)  
 ![image](https://github.com/user-attachments/assets/966390b0-0cb4-4f05-874f-6969ff4db907)  
