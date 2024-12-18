@@ -20,7 +20,8 @@ Az iskola és az avasi adótorony közötti távolság szemléltetve
 
 
 ## Feladatban használt eszközök  
-  - Johannson 6700 profiler  
+  - Johannson 6700 profiler
+  - FM Antenna
   - DVB-T szoba antenna, pl.: SMART HD550 (UHF: 470-862 MHz)  
   - Spektrum analizátor    
   - Koaxiális kábelek  
