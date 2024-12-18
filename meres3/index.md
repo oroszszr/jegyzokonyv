@@ -33,7 +33,7 @@ A következő képeken láthatjuk az avasi digitális földfelszíni televízió
 ![image](https://github.com/user-attachments/assets/966390b0-0cb4-4f05-874f-6969ff4db907)  
 
 ## Áthelyezett csatornakiosztás  
-Az alap adásokat egymást követő csatornákra helyzetük át. (pl CH28-ról CH41-re)
+Az alap adásokat egymást követő csatornákra helyzetük át. (pl CCH31-ről CH42-re, CH35-ról CH43-ra)
 ![image](https://github.com/user-attachments/assets/8a464bbf-7419-45c1-8628-a1ae3088e1e8)  
 
 
