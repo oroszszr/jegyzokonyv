@@ -28,11 +28,12 @@ A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler an
   - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez
 
 ## Alap földfelszíni csatornakiosztás  
-![image](https://github.com/user-attachments/assets/8a464bbf-7419-45c1-8628-a1ae3088e1e8)  
+![image](https://github.com/user-attachments/assets/5bca6b77-ac86-4250-8d6f-fd0f6557e686)  
 ![image](https://github.com/user-attachments/assets/966390b0-0cb4-4f05-874f-6969ff4db907)  
 
 ## Áthelyezett csatornakiosztás  
-![image](https://github.com/user-attachments/assets/5bca6b77-ac86-4250-8d6f-fd0f6557e686)  
+![image](https://github.com/user-attachments/assets/8a464bbf-7419-45c1-8628-a1ae3088e1e8)  
+
 
 ## Mérési táblázat  
 
