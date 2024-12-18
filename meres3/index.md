@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV
 ## Johansson 6700 Profiler programozható antennaerősítő-szűrő használata
 
-**A mérést végző neve:** Orosz Szabolcs és Csépke Péter és Horvát Martin  
+**A mérést végző neve:** Orosz Szabolcs, Csépke Péter és Horvát Martin  
 **A mérés tárgya:** 07 - Frekvencia áthelyezés mérési feladat.  
 **A mérés száma:** 07. mérés  
 **A mérés dátuma:** 2024. 12. 11.  
@@ -11,12 +11,11 @@
 **Csoport:** GYAK 2  
 **Helyszín:** V3 Labor  
 
-A következő feladatot hárman csináltuk meg az eszközök hiánya, gyorsaság miatt és az egyszerűség kedvéért.  
-
 ## Célkitűzés  
 A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler antennaerősítő-szűrő beállításainak gyakorlati alkalmazásával különböző antennák jeleinek kezelésében. A feladat során a diákok beállítják a csatornákat, optimalizálják a jelszinteket, és spektrum analizátor segítségével elemzik a bejövő és kimenő jeleket.
 
-## Adó és vevő távolsága
+## Adó és vevő távolsága  
+Az iskola és az avasi adótorony közötti távolság szemléltetve
 ![image](https://github.com/user-attachments/assets/aeb868db-462a-44dc-9758-79933fe6270d)
 
 
@@ -28,6 +27,8 @@ A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler an
   - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez
 
 ## Alap földfelszíni csatornakiosztás  
+A következő képeken láthatjuk az avasi digitális földfelszíni televíziók (DVB-T) csatornáit és a spektrumanalizátoron látható jeleket.
+
 ![image](https://github.com/user-attachments/assets/5bca6b77-ac86-4250-8d6f-fd0f6557e686)  
 ![image](https://github.com/user-attachments/assets/966390b0-0cb4-4f05-874f-6969ff4db907)  
 
@@ -46,8 +47,6 @@ A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler an
 | DVB-T Szoba Antenna | 45         | 45            | 666 MHz            | 666 MHz                |             60          | ~100           |
 | DVB-T Szoba Antenna | 48         | 46            | 690 MHz            | 674 MHz                |             53          | ~100           |
 
-## 
 
-## Áthelyezett csatornák
 
 
