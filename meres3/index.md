@@ -10,16 +10,17 @@
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
 **Helyszín:** V3 Labor  
-# MÉRÉSI JEGYZŐKÖNYV
 
-A következő feladatot hárman csináltuk meg az eszközök hiánya miatt és az egyszerűség kedvéért.  
+# MÉRÉSI JEGYZŐKÖNYV  
+
+A következő feladatot hárman csináltuk meg az eszközök hiánya, gyorsaság miatt és az egyszerűség kedvéért.  
 
 ## Célkitűzés  
 A gyakorlat célja, hogy a diákok megismerkedjenek a Johansson 6700 Profiler antennaerősítő-szűrő beállításainak gyakorlati alkalmazásával különböző antennák jeleinek kezelésében. A feladat során a diákok beállítják a csatornákat, optimalizálják a jelszinteket, és spektrum analizátor segítségével elemzik a bejövő és kimenő jeleket.
 
 ## Feladatban használt eszközök  
-  - Johannson 6700 profiler
-  - DVB-T szoba antenna, pl.: SMART HD550 (UHF: 470-862 MHz)
-  - Spektrum analizátor
-  - Koaxiális kábelek
-  - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez
+  - Johannson 6700 profiler  
+  - DVB-T szoba antenna, pl.: SMART HD550 (UHF: 470-862 MHz)  
+  - Spektrum analizátor    
+  - Koaxiális kábelek  
+  - Laptop a beállítások elvégzéséhez és jegyzőkönyv készítéséhez  
