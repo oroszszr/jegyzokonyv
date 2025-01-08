@@ -16,6 +16,19 @@ Tranzisztor kimeneti feszültségének és a kollektor áramának kiszámítása
 ## Elméleti háttér:   
 A tranzisztor egy félvezető eszköz, amelyet elsősorban erősítésre és kapcsolásra használnak az elektronikai áramkörökben. Működése a félvezető anyagok, például szilícium vagy germánium tulajdonságain alapul, amelyek képesek az elektromos áram vezetésére és szigetelésére is, attól függően, hogy milyen típusú szennyező anyagokat adnak hozzá. A tranzisztor három fő részből áll: az emitterből, a bázisból és a kollektorból.   
 
+## Feladatban használt eszközök:   
+ - Ellenállások
+     - Rc = 220 Ω
+     - Rbe = 1,5k Ω
+ - Tranzisztor
+ - LED
+ - Metex m-3800
+      - Gyártási szám : 736015
+ -NI MYDAQ
+      - Gyártási szám : 
+
+
+## Számítások
 
 
 | Ube [V]   | Uki [V]  | Ic   [mA]  | 
