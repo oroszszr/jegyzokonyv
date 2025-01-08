@@ -10,8 +10,13 @@ A mérést vezette: Sándor Péter
 Csoport: GYAK 2  
 Helyszín: V3 Labor  
 
-## Feladat célja: 
-Tranzisztor kimeneti feszültségének és a kollektor áramának kiszámítása a megadott ellenállás értékekkel.
+## Feladat célja:   
+Tranzisztor kimeneti feszültségének és a kollektor áramának kiszámítása a megadott ellenállás értékekkel.  
+
+## Elméleti háttér  
+A tranzisztor egy félvezető eszköz, amelyet elsősorban erősítésre és kapcsolásra használnak az elektronikai áramkörökben. Működése a félvezető anyagok, például szilícium vagy germánium tulajdonságain alapul, amelyek képesek az elektromos áram vezetésére és szigetelésére is, attól függően, hogy milyen típusú szennyező anyagokat adnak hozzá. A tranzisztor három fő részből áll: az emitterből, a bázisból és a kollektorból.   
+
+
 
 | Ube [V]   | Uki [V]  | Ic   [mA]  | 
 | --------- | -------  | ---------- | 
