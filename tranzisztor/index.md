@@ -23,8 +23,8 @@ A tranzisztor egy félvezető eszköz, amelyet elsősorban erősítésre és kap
  - Tranzisztor  
  - LED  
  - Metex m-3800  
-      - Gyártási szám : 736015  
- -NI MYDAQ  
+      - Gyártási szám : 736015
+ - NI MYDAQ  
       - Gyártási szám :   
 
 
