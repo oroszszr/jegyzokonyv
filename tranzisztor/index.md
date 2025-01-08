@@ -25,12 +25,15 @@ A tranzisztor egy félvezető eszköz, amelyet elsősorban erősítésre és kap
  - LED  
  - Metex m-3800  
       - Gyártási szám : 736015
- - NI MYDAQ  
-      - Gyártási szám :   
+ - NI MYDAQ
 
 
+## Falstadban készített áramkör   
+![circuit-20250108-1259](https://github.com/user-attachments/assets/f901c380-e224-44d1-95f5-a3bce1555f82)  
 
-| Ube [V]   | Uki [V]  | Ic   [mA]  | 
+## Mérési táblázat 
+
+| Ube [V]   | Urc [V]  | Ic   [mA]  | 
 | --------- | -------  | ---------- | 
 | 0         | 0        |      0     | 
 | 0,1       | 0        |      0     | 
@@ -41,12 +44,15 @@ A tranzisztor egy félvezető eszköz, amelyet elsősorban erősítésre és kap
 | 0,6       | 113,9m   |       4,06 |
 | 0,7       | 894      |       9,64 | 
 | 0,8       | 2,12     |      11,73 | 
-| 0,9       | 2,58     |      11,86 | 
-| 1         | 2,61     |      11,95 | 
-| 1,1       | 2,63     |        12  | 
-| 1,2       | 2,64     |    12,05   | 
+| 0,9       | 2,58     |      11,86 |   
+| 1         | 2,61     |      11,95 |   
+| 1,1       | 2,63     |        12  |   
+| 1,2       | 2,64     |    12,05   |   
 
 
-![image](https://github.com/user-attachments/assets/570c610b-2f1a-4a41-82c7-0b2a10633daa)
+## Valóságban összetett áramkör
+![IMG_20250108_131114](https://github.com/user-attachments/assets/6a6f9a24-ecf7-4968-b728-9873e940cca5)
 
+## Megjegyzések:
+A feladat során számos nehézséggel találkoztam, amelyek befolyásolták és lassították a megoldás folyamatát.A nevezetes és a mért adatok nem sokkal tértek el. Megfigyelhető, hogy 0 - 0,5 V-ig az áramkör zárt állásban volt. Mindezek után 0,6V értéknél nyílt ki a tranzisztor és kezdett világítani a LED. 1,2 V értéktől kezdett stabilizálódni és változatlan maradt az ellenálláson eső feszültség.
 
