@@ -10,6 +10,8 @@ A mérést vezette: Sándor Péter
 Csoport: GYAK 2  
 Helyszín: V3 Labor  
 
+## Feladat célja: 
+Tranzisztor kimeneti feszültségének és a kollektor áramának kiszámítása a megadott ellenállás értékekkel.
 
 | Ube [V]   | Uki [V]  | Ic   [mA]  | 
 | --------- | -------  | ---------- | 
