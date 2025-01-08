@@ -28,7 +28,7 @@ Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálna
   - Breadboard  
   - Jelgenerátor  
   - Oszcilloszkóp  
-  - vagy NI MYDAQ  
+  - NI MYDAQ  
 
 ##  Ellenállások értékei:  
   - **számolás alapján:**  
