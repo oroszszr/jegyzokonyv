@@ -1,13 +1,12 @@
 # Nagytávolságú IP-Hálózatok   
 **A feladatot végző neve:** Orosz Szabolcs és Csépke Péter  
-**A feladat tárgya:**   
-**A feladat száma:** 01. mérés  
-**A feladat dátuma:** 2025. 01. 09. 
-**A feladatot vezette:** Csontos Dénes
-
+**A feladat tárgya:** DHCPv4 konfigurálása  
+**A feladat száma:** 01. mérés   
+**A feladat dátuma:** 2025. 01. 09.   
+**A feladatot vezette:** Csontos Dénes  
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 2  
-**Helyszín:** V3 Labor  
+**Helyszín:** Fizikai labor  
 
 ## Projektfeladat jelenlegi célja:  
 
