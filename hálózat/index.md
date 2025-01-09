@@ -10,16 +10,24 @@
 
 ## Projektfeladat jelenlegi célja:  
 
-Az alábbi projektfeladatban azt oldottuk meg,hogy egy kisirodai hálózatban a végberendezések IP címet kaptak a routertől, amit a DHCP konfigurálás segítségével oldottuk meg, ez felelős az IP címzésért és a megfelelő adatkapcsolatért, ezt szimuláltuk a Cisco Packet Tracer nevezetű alkalmazásban.  
+Az alábbi projektfeladatban azt oldottuk meg,hogy egy kisirodai hálózatban a végberendezések IP címet kaptak a routertől, amit a DHCP konfigurálás segítségével oldottuk meg, ez felelős az IP címzésért és a megfelelő adatkapcsolatért, ezt szimuláltuk a Cisco Packet Tracer nevezetű alkalmazásban majd megvalósítottuk valóságban is.  
 
 ## Hálózati Topológia
   
 Az alábbi képen láthatjuk a feladatban szereplő topológiát:  
 ![image](https://github.com/user-attachments/assets/716f02d5-0442-4d7c-9d10-215abca33d7a)  
 
+## Valóságban  
+
+![image](https://github.com/user-attachments/assets/439bb669-62d7-4b95-9449-5cc44217a3c4)
 
 
-## IP címzés  
+## Feladatban használt eszközök  
+  - 2x HP ProBook 450 G7  
+  - 2x Cisco 4200 series router  
+  - 2x Catalyst 1000 series switch  
+    
+## IPv4 címzés  
 
 | **Név** | **Port** | **IP/Maszk** | **Default gateway** |  
 | --- | --- | --- | --- |  
@@ -41,18 +49,19 @@ Beállítottuk a Router5-re napi üzenetet: „Ne nyulj a gepemhez!”
 
 ### DHCP
 A DHCP (Dynamic Host Configuration Protocol) egy hálózati protokoll, amely automatikusan kiosztja az IP-címeket és más hálózati konfigurációs információkat a hálózati eszközöknek.  
+A DHCP lehetővé teszi, hogy a felhasználók és eszközök könnyen csatlakozzanak a hálózathoz anélkül, hogy manuálisan kellene beállítaniuk az IP-címeket.
 A következő képeken a DHCP beállításokat láthatjuk.   
-A képen látható, hogy 2 DHCP POOL-unk van 192.168.10.0/24 hálózat, illetve 192.168.20.0/24 hálózat. Ezeknek a hálózatoknak a szerepe hogy IP-t osszanak a PC-k számára.  
+A képen látható, hogy 2 DHCP POOL-unk van 192.168.10.0/24 hálózat, illetve 192.168.20.0/24 hálózat. Ezeknek a hálózatoknak a szerepe hogy IP-t osszanak a PC-k számára. Mindkét hálózat képes 254 ip cím kiosztására.
 
 ![image](https://github.com/user-attachments/assets/580bd822-92ff-4c2c-bf88-ca544fa5be42)
 
 ![image](https://github.com/user-attachments/assets/ffc252cd-5560-4d86-93e7-14c361d69b9f)
 
-### WIRELESS SETUP 
-
-SSID: WIFI  
-WPA2/PSK  
-Biztonság: AES  
+### WIRELESS SETUP   
+Vezeték nélküli biztonság beállításai:    
+SSID (Service Set Identifier) : WIFI    
+WPA2/PSK (Wi-Fi Protected Access 2 / Pre-Shared Key) Biztonsági protokollt használtunk   
+Biztonság: AES (Advanced Encryption Standard)   
 Passphrase: 293751287351823  
 
 ### IP ROUTE
@@ -60,6 +69,7 @@ Passphrase: 293751287351823
 A következő képen a routeren lévő irányító tábla bejegyzést látjuk.  
 Ebből a táblából tudhatjuk meg hogy melyek a saját hálózataink és melyek a távoli hálózatok, amelyet egy másik router adott át ennek a routernek.  
 A „C” betű a saját hálózatokat jelenti (connected) , míg az az „S” betűvel kezdődő útvonal a távoli hálózatot jelenti, amit a router megkapott a szomszédjától.  
+Az IP route tábla egy olyan tábla, amelyet a routerek és a számítógépek használnak az IP-csomagok útvonalának meghatározására. Az útválasztási tábla tartalmazza a hálózati címeket, a következő ugrás (next hop) címét, a hálózati interfészeket és egyéb információkat, amelyek segítik a forgalom irányítását.  
 
 ### R6:  
 ![image](https://github.com/user-attachments/assets/851af274-bcc1-4be9-afac-c8c22db0b625)
