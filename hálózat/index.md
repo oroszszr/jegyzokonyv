@@ -1,5 +1,15 @@
+# Nagytávolságú IP-Hálózatok   
+**A feladatot végző neve:** Orosz Szabolcs és Csépke Péter  
+**A feladat tárgya:**   
+**A feladat száma:** 01. mérés  
+**A feladat dátuma:** 2025. 01. 09. 
+**A feladatot vezette:** Csontos Dénes
 
-# Nagytávolságú IP-Hálózatok  
+**Évfolyam:** 13. E  
+**Csoport:** GYAK 2  
+**Helyszín:** V3 Labor  
+
+## Projektfeladat jelenlegi célja:  
 
 Az alábbi projektfeladatban azt oldottuk meg,hogy egy kisirodai hálózatban a végberendezések IP címet kaptak a routertől, amit a DHCP konfigurálás segítségével oldottuk meg, ez felelős az IP címzésért és a megfelelő adatkapcsolatért, ezt szimuláltuk a Cisco Packet Tracer nevezetű alkalmazásban.  
 
