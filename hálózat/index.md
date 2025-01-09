@@ -1,16 +1,16 @@
 
-**Nagytávolságú IP-Hálózatok**  
+# Nagytávolságú IP-Hálózatok  
 
 Az alábbi projektfeladatban azt oldottuk meg,hogy egy kisirodai hálózatban a végberendezések IP címet kaptak a routertől, amit a DHCP konfigurálás segítségével oldottuk meg, ez felelős az IP címzésért és a megfelelő adatkapcsolatért, ezt szimuláltuk a Cisco Packet Tracer nevezetű alkalmazásban.  
 
-**Topológia**  
+## Hálózati Topológia
   
 Az alábbi képen láthatjuk a feladatban szereplő topológiát:  
 ![image](https://github.com/user-attachments/assets/716f02d5-0442-4d7c-9d10-215abca33d7a)  
 
 
 
-**IP címzés**  
+## IP címzés  
 
 | **Név** | **Port** | **IP/Maszk** | **Default gateway** |  
 | --- | --- | --- | --- |  
@@ -30,7 +30,7 @@ Privilegizált mód jelszavának pedig a „class”-t.
 Titkosítottuk a jelszavakat.  
 Beállítottuk a Router5-re napi üzenetet: „Ne nyulj a gepemhez!”  
 
-**DHCP**  
+### DHCP
 A DHCP (Dynamic Host Configuration Protocol) egy hálózati protokoll, amely automatikusan kiosztja az IP-címeket és más hálózati konfigurációs információkat a hálózati eszközöknek.  
 A következő képeken a DHCP beállításokat láthatjuk.   
 A képen látható, hogy 2 DHCP POOL-unk van 192.168.10.0/24 hálózat, illetve 192.168.20.0/24 hálózat. Ezeknek a hálózatoknak a szerepe hogy IP-t osszanak a PC-k számára.  
@@ -39,29 +39,29 @@ A képen látható, hogy 2 DHCP POOL-unk van 192.168.10.0/24 hálózat, illetve 
 
 ![image](https://github.com/user-attachments/assets/ffc252cd-5560-4d86-93e7-14c361d69b9f)
 
-**WIRELESS SETUP**  
+### WIRELESS SETUP 
 
 SSID: WIFI  
 WPA2/PSK  
 Biztonság: AES  
 Passphrase: 293751287351823  
 
-**IP ROUTE**  
+### IP ROUTE
 
 A következő képen a routeren lévő irányító tábla bejegyzést látjuk.  
 Ebből a táblából tudhatjuk meg hogy melyek a saját hálózataink és melyek a távoli hálózatok, amelyet egy másik router adott át ennek a routernek.  
 A „C” betű a saját hálózatokat jelenti (connected) , míg az az „S” betűvel kezdődő útvonal a távoli hálózatot jelenti, amit a router megkapott a szomszédjától.  
 
-**R6:**  
+### R6:  
 ![image](https://github.com/user-attachments/assets/851af274-bcc1-4be9-afac-c8c22db0b625)
 
 
 
-**R5:**  
+### R5:  
 ![image](https://github.com/user-attachments/assets/636231de-8047-4eea-856f-b08f0d5a418b)
 
 
-**Tesztelések**  
+### Tesztelések  
 
 Az adatátvitel tesztelése érdeken pingeltünk a telefonról a pc0-ra, utána pedig a pc0 és a pc1 közötti kapcsolatot vizsgáltuk meg. és látható hogy a kommunikációk sikeresek.  
 
