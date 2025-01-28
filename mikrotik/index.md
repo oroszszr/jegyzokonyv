@@ -37,6 +37,16 @@ Komplex távközlési hálózat tervezése, telepítése és mérése
 - Mikrotik nRay 60GHz Slave: 192.168.88.3  
 - Router (AP mód): 192.168.88.4  
 - Switch (ha szükséges): 192.168.88.254  
-- Kliens laptop: 192.168.88.100-250 (DHCP-ből)  
+- Kliens laptop: 192.168.88.100-250 (DHCP-ből) 
+
+## Adatok
+Mikrotik LGH18 LTE:
+- Current Operator Telekom HU
+- Data Class: LTE
+- WAN IP: 100.82.157.99
+- RSSI: -52dBm
+- RSRP: -83dBm
+- SINR: 21dB
+- RSRQ: -12dB
 
 ## Eszközök telepítése és konfigurálása
