@@ -49,4 +49,4 @@ Mikrotik LGH18 LTE:
 - SINR: 21dB
 - RSRQ: -12dB
 
-## Eszközök telepítése és konfigurálása
+## Pingek
