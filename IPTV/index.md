@@ -65,8 +65,8 @@ Egyetlen darab antennajelet fogunk 4 részre osztani ami lehetséges, hogy nem f
 
 ## Fejállomás konfigurálása:  
 
-Mindezek után a **program selection** fülre megyünk és konfiguráljuk  az **output** csatornakiosztás szerint.  
-TS: (Transport Stream) amiből 4darab van belőle ezten az eszközön, és 1 csatornakiosztás 30Mbps maximális adatot képes továbbítani.  
+Következő lépésként a **program selection** fülre megyünk és konfiguráljuk  az **output**-ot csatornakiosztás szerint.  
+TS: (Transport Stream) amiből 4darab van ezen az eszközön, és 1 csatornakiosztás 30Mbps maximális adatot képes továbbítani.  
 
 Csatlakoztattam egy laptopot UTP kábel segítségével a fejállomásra **control portra**, hogy tudjam konfigurálni.   
 Először konfiguráltam a laptop interfészt, amelynek egy tartoményba kell essen a **Lemco** ip címével. ( Jelen esetben 192.168.1.1 /24-et állítottunk be, és az alapértelmezett átjárót 192.168.1.200-ra )  
@@ -74,12 +74,18 @@ A **LEMCO** alap ip címe 192.168.1.200. Alap név és jelszó: **admin** és a 
 
 Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdtük, aminek vagy a frekvenciáját, vagy a csatornáját állítjuk át.(Jelen esetben a csatornát.) Ha már **lock**-olt állapotban van, akkor **unlock**-olni kell, és akkor változik meg a csatornakiosztás. Ugyanezen lépéseket meg kell ismételni a B, E és Miskolci Város TV-n is.  
 
-## Router konfigurálása:
+## Router konfigurálása:  
 IGMP snpooping bekapcsolása.   
 Bemenet, kimenet és a laptop interface-t is IPTV-re állítjuk.  
+Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
+Állítunk rá DHCP szervert, ami 192.168.1.100 tól 192.169.1.249-ig oszt IP-t, alapértelmezett átjáró 192.168.1.1.    
 
-## Hibakeresés:
+## Tsztelések és mérési eredmények:  
+
+
+## Hibakeresés:  
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.  
+Nincs DichTV.  
 
 
