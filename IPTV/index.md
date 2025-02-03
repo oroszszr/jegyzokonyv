@@ -75,6 +75,6 @@ Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdt�
 
 
 ## Hibakeresés:
-Nem tudtuk eléri a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
+Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.  
 
