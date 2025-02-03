@@ -29,6 +29,7 @@ A földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adót
 ## Feladat menete  
 Minden előtt reseteltem mindent és alapbeállításról kezdtem az egészet, hogy ne legyen zavaró tényező.  
 Ezután megnéztem az **fmdx.hu** oldalon az avasi torony csatornakiosztását.   
+
 Megkerestem a **Miskolc Városi TV** adást, ami **634MHz-en** lévő csatornán helyezkedik el. Azért választottuk ezt a csatornát mivel ez sugároz a leggyengébben (**0,126kW**), és ha ezen a csatornán jó a vétel, akkor a többin is jó lesz.  
 
 ![image](https://github.com/user-attachments/assets/201cb560-fc7d-4fd2-bc09-a4a3c71415aa)  
@@ -73,8 +74,12 @@ A **LEMCO** alap ip címe 192.168.1.200. Alap név és jelszó: **admin** és a 
 
 Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdtük, aminek vagy a frekvenciáját, vagy a csatornáját állítjuk át.(Jelen esetben a csatornát.) Ha már **lock**-olt állapotban van, akkor **unlock**-olni kell, és akkor változik meg a csatornakiosztás. Ugyanezen lépéseket meg kell ismételni a B, E és Miskolci Város TV-n is.  
 
+## Router konfigurálása:
+IGMP snpooping bekapcsolása.   
+Bemenet, kimenet és a laptop interface-t is IPTV-re állítjuk.  
 
 ## Hibakeresés:
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.  
+
 
