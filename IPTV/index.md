@@ -12,10 +12,10 @@
 **Helyszín:** V3 Labor  
 
 
-## Feladat célja   
+### Feladat célja   
 A földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adótorony kiválasztása, a jel mérésének és elosztásának elvégzése, és az IPTV rendszer konfigurálása.  
 
-## Felhasznált eszközök  
+### Felhasznált eszközök  
 - Antenna: Kültéri antenna (Iskra P2845) 
 - Fejállomás: LEMCO SCL-824CT (8darab bemenet, 4darab kimenet)
 - Set-top box: MAG IPTV  
@@ -49,12 +49,12 @@ Környezeti tényezők:
 
 
 
-## Metek HDD adatok:  
+### Metek HDD adatok:  
 - Jelszint: 51dB
 - MER érték: 25dB
 - Moduláció: DVBT/QPSK/8K/1/32
   
-## DVB-T csatornák keresése:  
+### DVB-T csatornák keresése:  
 
 Multiplex C-t és D-t nem kötjük be mert kódolt csatornák vannak rajtuk, amik fizetősök.   
 
@@ -63,7 +63,7 @@ Multiplex A, B, E és Miskolc város TV-t fogjuk be, ami 4 darab bemenet lefogla
 Megkerestük az ingyenesen fogható csatornákat és a lehető legtöbbet prübáltuk fogni a fejállomás bemenetinek segítségével.  
 Egyetlen darab antennajelet fogunk 4 részre osztani ami lehetséges, hogy nem fog adni elég jelerősséget, de mivel most egy nagyobb nyereségű, erősebb antennát használtunk, ezáltal van elég jelerősség.  
 
-## Fejállomás konfigurálása:  
+### Fejállomás konfigurálása:  
 
 Következő lépésként a **program selection** fülre megyünk és konfiguráljuk  az **output**-ot csatornakiosztás szerint.  
 TS: (Transport Stream) amiből 4darab van ezen az eszközön, és 1 csatornakiosztás 30Mbps maximális adatot képes továbbítani.  
@@ -74,7 +74,7 @@ A **LEMCO** alap ip címe 192.168.1.200. Alap név és jelszó: **admin** és a 
 
 Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdtük, aminek vagy a frekvenciáját, vagy a csatornáját állítjuk át.(Jelen esetben a csatornát.) Ha már **lock**-olt állapotban van, akkor **unlock**-olni kell, és akkor változik meg a csatornakiosztás. Ugyanezen lépéseket meg kell ismételni a B, E és Miskolci Város TV-n is.  
 
-## Router konfigurálása:  
+### Router konfigurálása:  
 IGMP snpooping bekapcsolása.   
 Bemenet, kimenet és a laptop interface-t is IPTV-re állítjuk.  
 Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
@@ -82,10 +82,10 @@ Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.
 
 ## Tsztelések és mérési eredmények:  
 
-
-## Hibakeresés:  
+### Hibakeresés:  
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
-Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.  
-Nincs DichTV.  
+Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.   
+Ezres port nem jó, 1024-től lehet kiosztani a portokat ahhoz, hogy működjön. 
+224.224.244.1-es IP cím nem jó, .2-től működik a kiosztás.  
 
 
