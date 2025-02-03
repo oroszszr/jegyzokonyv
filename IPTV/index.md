@@ -76,7 +76,7 @@ Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdt�
 
 ### Router konfigurálása:  
 
-IGMP snpooping bekapcsolása.   
+IGMP snooping bekapcsolása.   
 Bemenet, kimenet és a laptop interface-t is IPTV-re állítjuk.  
 Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
 Állítunk rá DHCP szervert, ami 192.168.1.100 tól 192.169.1.249-ig oszt IP-t, alapértelmezett átjáró 192.168.1.1.    
