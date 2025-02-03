@@ -27,8 +27,9 @@ A földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adót
 - Szerelési eszközök: csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő
 
 ## Feladat menete  
-Először megnéztem az **fmdx.hu** oldalon az avasi torony csatornakiosztását.  
-Megkerestem a **Miskolc Városi TV** adást, ami **634MHz-en** lévő csatornán helyezkedik el. Azért választottuk ezt a csatornát mivel ez sugároz a leggyengébben (**0,126kW**), és ha ezen a csatornán jó a vétel, akkor a többin is jó lesz.
+Minden előtt reseteltem mindent és alapbeállításról kezdtem az egészet, hogy ne legyen zavaró tényező.  
+Ezután megnéztem az **fmdx.hu** oldalon az avasi torony csatornakiosztását.   
+Megkerestem a **Miskolc Városi TV** adást, ami **634MHz-en** lévő csatornán helyezkedik el. Azért választottuk ezt a csatornát mivel ez sugároz a leggyengébben (**0,126kW**), és ha ezen a csatornán jó a vétel, akkor a többin is jó lesz.  
 
 ![image](https://github.com/user-attachments/assets/201cb560-fc7d-4fd2-bc09-a4a3c71415aa)  
  
@@ -37,13 +38,15 @@ A képen látható az iskola és az adótorony közötti távolság.
 ![image](https://github.com/user-attachments/assets/c292f11f-8834-4c62-890a-2fbab7d1e2d9)  
 
 
-Mindezek után megprónáltam beállítani a lehető legjobb jelerősséget minden zavaró tényező ellenére (ami végül az ** Antenna szögállás: Délnyugat 234°**) , mint például;  
+Mindezek után megprónáltam beállítani a lehető legjobb jelerősséget minden zavaró tényező ellenére (ami végül az antenna szögállás: Délnyugat 234°), mint például;  
 Környezeti tényezők:  
 
 - Páratartalom:  68%
 - Légnyomás: 1027 mBar 
 - Hőmérséklet: 5°C 
-- Szélerősség: 3,2 m/s 
+- Szélerősség: 3,2 m/s
+
+
 
 ## Metek HDD adatok:  
 - Jelszint: 51dB
@@ -74,11 +77,4 @@ Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdt�
 ## Hibakeresés:
 Nem tudtuk eléri a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.  
-
-
-
-
-
-  
-
 
