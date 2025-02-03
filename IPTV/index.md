@@ -39,7 +39,7 @@ A képen látható az iskola és az adótorony közötti távolság.
 ![image](https://github.com/user-attachments/assets/c292f11f-8834-4c62-890a-2fbab7d1e2d9)  
 
 
-Mindezek után megprónáltam beállítani a lehető legjobb jelerősséget minden zavaró tényező ellenére (ami végül az antenna szögállás: Délnyugat 234°), mint például;  
+Mindezek után megpróbáltam beállítani a lehető legjobb jelerősséget minden zavaró tényező ellenére mint például;   
 Környezeti tényezők:  
 
 - Páratartalom:  68%
@@ -47,7 +47,7 @@ Környezeti tényezők:
 - Hőmérséklet: 5°C 
 - Szélerősség: 3,2 m/s
 
-
+Végül az antenna szögállása: Délnyugat 234°  
 
 ### Metek HDD adatok:  
 - Jelszint: 51dB
@@ -60,8 +60,8 @@ Multiplex C-t és D-t nem kötjük be mert kódolt csatornák vannak rajtuk, ami
 
 Multiplex A, B, E és Miskolc város TV-t fogjuk be, ami 4 darab bemenet lefoglalását jelenti.  
 
-Megkerestük az ingyenesen fogható csatornákat és a lehető legtöbbet prübáltuk fogni a fejállomás bemenetinek segítségével.  
-Egyetlen darab antennajelet fogunk 4 részre osztani ami lehetséges, hogy nem fog adni elég jelerősséget, de mivel most egy nagyobb nyereségű, erősebb antennát használtunk, ezáltal van elég jelerősség.  
+Megkerestük az ingyenesen fogható csatornákat és a lehető legtöbbet próbáltuk fogni a fejállomás bemenetinek segítségével.  
+Egyetlen darab antennajelet fogunk 4 részre osztani ami lehetséges, hogy nem fog adni elég jelerősséget, de mivel most egy nagyobb nyereségű, erősebb antennát használtunk, ezáltal lesz elég jelerősség.  
 
 ### Fejállomás konfigurálása:  
 
@@ -75,6 +75,7 @@ A **LEMCO** alap ip címe 192.168.1.200. Alap név és jelszó: **admin** és a 
 Az input fülön konfiguráltuk a csatornákat, először Multiplex A-val kezdtük, aminek vagy a frekvenciáját, vagy a csatornáját állítjuk át.(Jelen esetben a csatornát.) Ha már **lock**-olt állapotban van, akkor **unlock**-olni kell, és akkor változik meg a csatornakiosztás. Ugyanezen lépéseket meg kell ismételni a B, E és Miskolci Város TV-n is.  
 
 ### Router konfigurálása:  
+
 IGMP snpooping bekapcsolása.   
 Bemenet, kimenet és a laptop interface-t is IPTV-re állítjuk.  
 Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
@@ -85,7 +86,7 @@ Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.
 ### Hibakeresés:  
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.   
-Ezres port nem jó, 1024-től lehet kiosztani a portokat ahhoz, hogy működjön. 
+1 - 1023-ig a portkiosztást nem fogadta el, 1024-től lehet kiosztani a portokat ahhoz, hogy működjön.  
 224.224.244.1-es IP cím nem jó, .2-től működik a kiosztás.  
 
 
