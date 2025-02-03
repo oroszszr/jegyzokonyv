@@ -1,7 +1,7 @@
 # MÉRÉSI JEGYZŐKÖNYV   
 # Méréstechnikai Feladat: Hálózat tervezés      
 
-**A mérést végző neve:** Snellenperger Sándor  
+**A mérést végző neve:** Orosz Szabolcs  
 **A mérés tárgya:**  Mikrotik  
 **A mérés száma:** 01. mérés    
 **A mérés dátuma:** 2025. 01. 29.    
