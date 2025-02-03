@@ -106,7 +106,7 @@ A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatorn
 
 **8 MHz sávszélességgel sugároz mindegyik csatorna.**
 
-Input 1 lett a multiplex A. A be
+Input 1 lett a multiplex A. 
 
 ![image](https://github.com/user-attachments/assets/7a88021a-732e-4971-bdd9-9658415c0aa0)  
 
