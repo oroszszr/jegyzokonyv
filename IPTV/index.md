@@ -122,6 +122,14 @@ Nemutolsó sorban az Input 8 pedig a multiplex E
 
 ![image](https://github.com/user-attachments/assets/a11b38c4-2c78-4c71-8d81-e2cb7f00286d)
 
+![image](https://github.com/user-attachments/assets/2e758339-893c-471d-89fd-a971b3ca6176)
+
+![image](https://github.com/user-attachments/assets/f3f9e748-afda-4274-9325-e26eabbaa304)
+
+![image](https://github.com/user-attachments/assets/7baf7bcd-3f58-419e-af67-8648cf69ea9e)
+
+
+
 
 ### Hibakeresés:  
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
