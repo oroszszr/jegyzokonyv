@@ -122,11 +122,17 @@ Nemutolsó sorban az Input 8 pedig a multiplex E
 
 ![image](https://github.com/user-attachments/assets/a11b38c4-2c78-4c71-8d81-e2cb7f00286d)
 
+Az alábbi képeken látható a VLC media playeren behozott adásnak astatisztikái.
+
 ![image](https://github.com/user-attachments/assets/2e758339-893c-471d-89fd-a971b3ca6176)
 
-![image](https://github.com/user-attachments/assets/f3f9e748-afda-4274-9325-e26eabbaa304)
+Bővebb információként a "nulladik" adatfolyamon lehet látni az azonosítót, a Kodek típusát, videófelbontását, annak pufferelését és a képkockasebességet.  
 
-![image](https://github.com/user-attachments/assets/7baf7bcd-3f58-419e-af67-8648cf69ea9e)
+![image](https://github.com/user-attachments/assets/f3f9e748-afda-4274-9325-e26eabbaa304)  
+
+Az első adatfolyamon szintén láthatjuk az azonosítót és kodeket, emellett, a mintavételezési gyakoriságot, a mintakénti biteket és a bitsebességet.  
+
+![image](https://github.com/user-attachments/assets/fbed8196-74b8-411a-ba5f-e2050a006aa0)
 
 
 
