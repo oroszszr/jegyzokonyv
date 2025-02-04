@@ -8,7 +8,7 @@
 [Mérés -  Tranzisztor](https://github.com/oroszszr/jegyzokonyv/blob/main/tranzisztor/index.md)   
 [Mérés -  DHCP](https://github.com/oroszszr/jegyzokonyv/blob/main/h%C3%A1l%C3%B3zat/index.md)   
 [Mérés -  Forrasztás](https://github.com/oroszszr/jegyzokonyv/blob/main/forrasztas/index.md)   
-[Mérés - Mikrotik](https://github.com/oroszszr/jegyzokonyv/blob/main/mikrotik/index.md)
+[Mérés - Mikrotik](https://github.com/oroszszr/jegyzokonyv/blob/main/mikrotik/index.md)  
 [Mérés - IPTV](https://github.com/oroszszr/jegyzokonyv/blob/main/IPTV/index.md)  
 
 
