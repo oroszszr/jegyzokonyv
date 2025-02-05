@@ -57,26 +57,31 @@ Végül az antenna szögállása: Délnyugat 234°
 - Noise Margin: 19.8
 - MER érték: 26.3dB
 - Moduláció: DVBT/QPSK/8K/1/32
-  
+
+### Router konfigurálása:  
+
+SSID: furti  
+Password: furti12345  
+Admin belépés:  
+  - Név: admin  
+  - Jrlszó: admin12345
+
+IGMP snooping bekapcsolása.   
+Bemenetet, kimenetet és a laptop interface-t is IPTV-re állítjuk.  
+Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
+Állítunk rá DHCP szervert, ami 192.168.1.100 tól 192.169.1.249-ig oszt IP-t, alapértelmezett átjáró 192.168.1.1.  
+
 ### DVB-T csatornák keresése:  
 
 Multiplex C-t és D-t nem kötjük be mert kódolt csatornák vannak rajtuk, amik fizetősök.   
 
 Multiplex A, B, E és Miskolc város TV-t fogjuk be, ami 4 darab bemenet lefoglalását jelenti.  
 
-
 ### Fejállomás konfigurálása:   
 Megkerestük az ingyenesen fogható csatornákat és a lehető legtöbbet próbáltuk fogni a fejállomás bemenetinek segítségével.   
 Egyetlen darab antennajelet fogunk 4 részre osztani ami lehetséges, hogy nem fog adni elég jelerősséget, de mivel most egy nagyobb nyereségű, erősebb antennát használtunk, ezáltal lesz elég jelerősség.   
 Először konfiguráltam a laptop interfészt, amelynek egy tartományba kell essen a **Lemco** ip címével. ( Jelen esetben 192.168.1.1 /24-et állítottunk be, és az alapértelmezett átjárót 192.168.1.200-ra )  
 A **LEMCO** alap ip címe 192.168.1.200. Alap név és jelszó: **admin** és a kód **12345**.  
-
-### Router konfigurálása:  
-
-IGMP snooping bekapcsolása.   
-Bemenet, kimenet és a laptop interface-t is IPTV-re állítjuk.  
-Bridgeltünk LAN1-ről LAN3-ra közvetlenül IPTV-ről.    
-Állítunk rá DHCP szervert, ami 192.168.1.100 tól 192.169.1.249-ig oszt IP-t, alapértelmezett átjáró 192.168.1.1.    
 
 ## Tesztelések és mérési eredmények:  
 
@@ -103,7 +108,6 @@ A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatorn
 | 39    | Input 4      | Miskolc TV          | 1000       | 0         | FTA       | 2                | 224.0.0.1     | 1039    | UDP  |
 
 
-
 **8 MHz sávszélességgel sugároz mindegyik csatorna.**
 
 Input 1 lett a multiplex A.
@@ -122,16 +126,14 @@ Nemutolsó sorban az Input 8 pedig a multiplex E
 
 ![image](https://github.com/user-attachments/assets/a11b38c4-2c78-4c71-8d81-e2cb7f00286d)
 
-Az alábbi képeken látható a VLC media playeren behozott adásnak astatisztikái.
+Az alábbi képeken látható a VLC media playeren behozott adásnak astatisztikái.  
+Bővebb információként a "nulladik" adatfolyamon lehet látni az azonosítót, a Kodek típusát, videófelbontását, annak pufferelését és a képkockasebességet.   
 
 ![image](https://github.com/user-attachments/assets/2e758339-893c-471d-89fd-a971b3ca6176)
 
-Bővebb információként a "nulladik" adatfolyamon lehet látni az azonosítót, a Kodek típusát, videófelbontását, annak pufferelését és a képkockasebességet.  
-
-![image](https://github.com/user-attachments/assets/f3f9e748-afda-4274-9325-e26eabbaa304)  
-
 Az első adatfolyamon szintén láthatjuk az azonosítót és kodeket, emellett, a mintavételezési gyakoriságot, a mintakénti biteket és a bitsebességet.  
 
+![image](https://github.com/user-attachments/assets/f3f9e748-afda-4274-9325-e26eabbaa304)  
 ![image](https://github.com/user-attachments/assets/fbed8196-74b8-411a-ba5f-e2050a006aa0)
 
 
