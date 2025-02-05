@@ -68,7 +68,7 @@ Multiplex A, B, E és Miskolc város TV-t fogjuk be, ami 4 darab bemenet lefogla
 ### Fejállomás konfigurálása:   
 Megkerestük az ingyenesen fogható csatornákat és a lehető legtöbbet próbáltuk fogni a fejállomás bemenetinek segítségével.   
 Egyetlen darab antennajelet fogunk 4 részre osztani ami lehetséges, hogy nem fog adni elég jelerősséget, de mivel most egy nagyobb nyereségű, erősebb antennát használtunk, ezáltal lesz elég jelerősség.   
-Először konfiguráltam a laptop interfészt, amelynek egy tartoményba kell essen a **Lemco** ip címével. ( Jelen esetben 192.168.1.1 /24-et állítottunk be, és az alapértelmezett átjárót 192.168.1.200-ra )  
+Először konfiguráltam a laptop interfészt, amelynek egy tartományba kell essen a **Lemco** ip címével. ( Jelen esetben 192.168.1.1 /24-et állítottunk be, és az alapértelmezett átjárót 192.168.1.200-ra )  
 A **LEMCO** alap ip címe 192.168.1.200. Alap név és jelszó: **admin** és a kód **12345**.  
 
 ### Router konfigurálása:  
