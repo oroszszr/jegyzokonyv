@@ -141,5 +141,4 @@ Az első adatfolyamon szintén láthatjuk az azonosítót és kodeket, emellett,
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1en lévő 634 MHz csatornát 666 MHz-re.   
 1 - 1023-ig a portkiosztást nem fogadta el, 1024-től lehet kiosztani a portokat ahhoz, hogy működjön.  
-224.224.244.1-es IP cím nem jó, .2-től működik a kiosztás.  
 
