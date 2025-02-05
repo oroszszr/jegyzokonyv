@@ -27,6 +27,7 @@ A földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adót
 - Szerelési eszközök: csavarhúzó, villáskulcs, kábelvágó, iránytű, dőlésszögmérő
 
 ## Feladat menete  
+Ezt a feladatot is zárt helyiségben csináltuk, ezért felléphetnek interferenciák és emiatt sem a legideálsiabb a jelerősség.  
 Minden előtt reseteltem mindent és alapbeállításról kezdtem az egészet, hogy ne legyen zavaró tényező.  
 Ezután megnéztem az **fmdx.hu** oldalon az avasi torony csatornakiosztását.   
 
