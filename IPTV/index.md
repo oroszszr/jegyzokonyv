@@ -138,4 +138,5 @@ Az első adatfolyamon szintén láthatjuk az azonosítót és kodeket, emellett,
 ### Hibakeresés:  
 Nem tudtuk elérni a konfigugációs oldalt, mint kiderült nem volt rendesen bedugva az UTP kábel.   
 Nem volt M1, ezért újra kellett konfigurálni az input1-en lévő 634 MHz csatornát 666 MHz-re.   
+IGMP Snooping nélkül az egész iskolai hálóózat láthatta volna a közvetítést és ezáltal terhelt állapotban lett volna.  
 
