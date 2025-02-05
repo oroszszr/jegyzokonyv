@@ -111,19 +111,14 @@ A táblázat összegzi a televíziós és rádiós csatornák adatait, a csatorn
 
 **8 MHz sávszélességgel sugároz mindegyik csatorna.**
 
-Input 1 lett a multiplex A.
+Az alábbi képeken látható a digitális televíziós vevő (DVB-T) beállítás felülete amit az antennáról leválasztott különböző adókról láthatunk.  
+Láthatjuk a bemeneteket, frekvenciákat, sávszélsségeket, csatornákat, és a megjegyzésekben a multiplexált csatornák neveit.  
 
 ![image](https://github.com/user-attachments/assets/7a88021a-732e-4971-bdd9-9658415c0aa0)  
 
-Input 2 felel meg multiplex B-ért.
-
 ![image](https://github.com/user-attachments/assets/e8fbf4ff-7d67-4cd5-9a08-86bfbd1e7a73)
 
-Input 7 pedig a Miskolc Város TV.
-
 ![image](https://github.com/user-attachments/assets/4bae06d4-62bc-4f04-9bca-8dfc6dd3ff38)
-
-Nemutolsó sorban az Input 8 pedig a multiplex E
 
 ![image](https://github.com/user-attachments/assets/a11b38c4-2c78-4c71-8d81-e2cb7f00286d)
 
