@@ -108,7 +108,7 @@ Láthatjuk hogy gyengébb jelerősséggel rendelkezünk telefonon vezeték nélk
 
 ![image](https://github.com/user-attachments/assets/c6847559-2fe6-4b68-afe4-c70f9ae6c16f)
 
-**ipon.hu szerver tartománynéb és IP**   
+**ipon.hu szerver tartománynév és IP**   
 
 ![image](https://github.com/user-attachments/assets/6e7478a7-38cf-4a2d-b39e-d7eb3454d602)
 
