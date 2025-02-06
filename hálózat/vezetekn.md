@@ -16,6 +16,7 @@ A projektfeladat célja egy működő hálózati topológia kiépítése és vez
 ## Feladatban használt eszközök  
   -  HP ProBook 450 G7  
   -  Catalyst 1000 series switch
+  -  TP-LINK TR-WR841N 300Mbps wireless router  
 
 ## Hálózati topológia   
 
