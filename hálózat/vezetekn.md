@@ -14,15 +14,14 @@
 A projektfeladat célja egy működő hálózati topológia kiépítése és vezeték nélküli router által hálózati elérés biztosítása.  
 
 ## Feladatban használt eszközök  
-  -  HP ProBook 450 G7  
-  -  Catalyst 1000 series switch  
-  -  TP-LINK TR-WR841N 300Mbps wireless router
-  -  POCO X3 PRO telefon  
+  -  HP ProBook 450 G7 eszközök konfigurálására és pingelésekre  
+  -  Catalyst 1000 series switch router számára internetelérés biztosítása  
+  -  TP-LINK TR-WR841N 300Mbps wireless router hálózati elérés biztosítására  
+  -  POCO X3 PRO telefon pingelésre és hálózat minőségének tesztelésére  
 
 ## Hálózati topológia   
 
 ![image](https://github.com/user-attachments/assets/6306094c-c945-4a58-bd0a-b2decedb23b7)
-
 
 ## Router beállítások  
 
@@ -46,14 +45,13 @@ Láthatjuk a router IP címét, MAC-Adress-ét és az alhálózati maszkot.
 
 ![image](https://github.com/user-attachments/assets/588f51c2-dbf0-4879-bdb9-4227bc61ac26)
 
-
 ## Hálózati tesztek, pingek  
 
 ![image](https://github.com/user-attachments/assets/aec96ae6-ac13-4aaf-b0fc-4a8420fdf107)
 
 <img src="https://github.com/user-attachments/assets/a27b8105-ffce-4e3e-b9bb-455c5e8a3f7a" width="400" height="850">  
 
-### Hálózati jelerősség
+### Hálózati jelerősség  
 
 **Laptopon vezeték nélkül**
 
@@ -61,17 +59,27 @@ Láthatjuk a router IP címét, MAC-Adress-ét és az alhálózati maszkot.
 
 **Telefonon vezeték nélkül**
 
+Láthatjuk hogy gyengébb jelerősséggel rendelkezünk telefonon vezeték nélkül, mint laptopon.  
+
 <img src="https://github.com/user-attachments/assets/9abd2f62-b67d-4042-b3a5-34be1ed6fb91" width="400" height="850">  
 
-## Számítógép IP beállításai és tesztjei  
+**Sávszélesség**
 
-### 
-![image](https://github.com/user-attachments/assets/f0d26d4d-3c5a-4627-b39c-cf4cd36e2b56)
+![image](https://github.com/user-attachments/assets/606e1886-c314-4613-b589-c0e14c2a553b)
+
+
+## Számítógépen parancssor segítségével megjelített adatok  
+
+**Ipconfig**  
+
+![image](https://github.com/user-attachments/assets/f0d26d4d-3c5a-4627-b39c-cf4cd36e2b56)  
+
+**Saját telefon pingelése**  
 
 ![image](https://github.com/user-attachments/assets/e8d6bbf2-c4e6-4068-b3d5-f89e37342a08)
 
-![image](https://github.com/user-attachments/assets/21cec3fb-3512-4e61-8c65-93f02f303d6d)
 
+![image](https://github.com/user-attachments/assets/21cec3fb-3512-4e61-8c65-93f02f303d6d)
 
 ![image](https://github.com/user-attachments/assets/d7fd821f-26c2-4504-91c3-cb4fbf52e4f3)
 
@@ -85,11 +93,7 @@ Láthatjuk a router IP címét, MAC-Adress-ét és az alhálózati maszkot.
 
 ![image](https://github.com/user-attachments/assets/6e7478a7-38cf-4a2d-b39e-d7eb3454d602)
 
-
 ![image](https://github.com/user-attachments/assets/6c1841d2-a7c9-4ea8-ae76-c6fad00bd0a7)
-
-
-![image](https://github.com/user-attachments/assets/606e1886-c314-4613-b589-c0e14c2a553b)
 
 ![image](https://github.com/user-attachments/assets/2a1e4852-4597-4b8d-963d-0dcac598f3ae)
 
