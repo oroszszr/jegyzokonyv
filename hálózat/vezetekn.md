@@ -23,15 +23,29 @@ A projektfeladat célja egy működő hálózati topológia kiépítése és vez
 ![image](https://github.com/user-attachments/assets/6306094c-c945-4a58-bd0a-b2decedb23b7)
 
 
-## 
+## Router beállítások  
 
-![image](https://github.com/user-attachments/assets/368ebf63-e743-412d-98cb-8a41360bd889)
+### Quick setup   
 
-![image](https://github.com/user-attachments/assets/21f1bc5a-cfae-4e3a-902d-a76dc24ae189)
+A képen látható 
+
+![image](https://github.com/user-attachments/assets/368ebf63-e743-412d-98cb-8a41360bd889)  
+
+### LAN beállítás   
+
+Láthatjuk a router IP címét, MAC-Adress-ét és az alhálózati maszkot.  
+
+![image](https://github.com/user-attachments/assets/21f1bc5a-cfae-4e3a-902d-a76dc24ae189)  
+
+### DHCP beállítás  
 
 ![image](https://github.com/user-attachments/assets/1fb2d6f8-da4c-4914-8771-aeabb88a6f0a)
 
+### Wireless security  
+
 ![image](https://github.com/user-attachments/assets/588f51c2-dbf0-4879-bdb9-4227bc61ac26)
+
+
 
 ![image](https://github.com/user-attachments/assets/f0d26d4d-3c5a-4627-b39c-cf4cd36e2b56)
 
@@ -58,6 +72,8 @@ laptop wifik ![image](https://github.com/user-attachments/assets/aec96ae6-ac13-4
 ![image](https://github.com/user-attachments/assets/6c1841d2-a7c9-4ea8-ae76-c6fad00bd0a7)
 
 <img src="https://github.com/user-attachments/assets/9abd2f62-b67d-4042-b3a5-34be1ed6fb91" width="400" height="850">  
+
+![image](https://github.com/user-attachments/assets/d3b5c37d-871a-4af1-b3ad-742ab3550e38)
 
 ![image](https://github.com/user-attachments/assets/606e1886-c314-4613-b589-c0e14c2a553b)
 
