@@ -19,11 +19,8 @@ A projektfeladat célja egy működő hálózati topológia kiépítése és vez
 
 ## Hálózati topológia   
 
-### Elméletben  
-
 ![image](https://github.com/user-attachments/assets/6306094c-c945-4a58-bd0a-b2decedb23b7)
 
-### Valóságban 
 
 ## 
 
@@ -62,6 +59,11 @@ laptop wifik ![image](https://github.com/user-attachments/assets/aec96ae6-ac13-4
 ![image](https://github.com/user-attachments/assets/a27b8105-ffce-4e3e-b9bb-455c5e8a3f7a)
 
 ![image](https://github.com/user-attachments/assets/606e1886-c314-4613-b589-c0e14c2a553b)
+
+![image](https://github.com/user-attachments/assets/2a1e4852-4597-4b8d-963d-0dcac598f3ae)
+
+![image](https://github.com/user-attachments/assets/924c34e6-94c4-45a9-ad16-ca6d713cbfb8)
+
 
 
 
