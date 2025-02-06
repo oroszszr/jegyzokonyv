@@ -63,12 +63,14 @@ Láthatjuk a router IP címét, MAC-Adress-ét és az alhálózati maszkot.
 
 <img src="https://github.com/user-attachments/assets/9abd2f62-b67d-4042-b3a5-34be1ed6fb91" width="400" height="850">  
 
+## Számítógép IP beállításai és tesztjei  
 
+### 
 ![image](https://github.com/user-attachments/assets/f0d26d4d-3c5a-4627-b39c-cf4cd36e2b56)
 
 ![image](https://github.com/user-attachments/assets/e8d6bbf2-c4e6-4068-b3d5-f89e37342a08)
 
-route tabla ![image](https://github.com/user-attachments/assets/21cec3fb-3512-4e61-8c65-93f02f303d6d)
+![image](https://github.com/user-attachments/assets/21cec3fb-3512-4e61-8c65-93f02f303d6d)
 
 
 ![image](https://github.com/user-attachments/assets/d7fd821f-26c2-4504-91c3-cb4fbf52e4f3)
