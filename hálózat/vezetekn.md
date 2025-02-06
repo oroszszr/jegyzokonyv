@@ -26,3 +26,53 @@ A projektfeladat célja egy működő hálózati topológia kiépítése és vez
 ### Valóságban 
 
 ## 
+
+![image](https://github.com/user-attachments/assets/368ebf63-e743-412d-98cb-8a41360bd889)
+
+![image](https://github.com/user-attachments/assets/21f1bc5a-cfae-4e3a-902d-a76dc24ae189)
+
+![image](https://github.com/user-attachments/assets/1fb2d6f8-da4c-4914-8771-aeabb88a6f0a)
+
+![image](https://github.com/user-attachments/assets/588f51c2-dbf0-4879-bdb9-4227bc61ac26)
+
+![image](https://github.com/user-attachments/assets/f0d26d4d-3c5a-4627-b39c-cf4cd36e2b56)
+
+![image](https://github.com/user-attachments/assets/e8d6bbf2-c4e6-4068-b3d5-f89e37342a08)
+
+route tabla ![image](https://github.com/user-attachments/assets/21cec3fb-3512-4e61-8c65-93f02f303d6d)
+
+laptop wifik ![image](https://github.com/user-attachments/assets/aec96ae6-ac13-4aaf-b0fc-4a8420fdf107)
+
+![image](https://github.com/user-attachments/assets/d7fd821f-26c2-4504-91c3-cb4fbf52e4f3)
+
+![image](https://github.com/user-attachments/assets/3e4a13b4-5654-41d3-b1d5-92c6213444d1)
+
+![image](https://github.com/user-attachments/assets/1792757b-a242-4ff0-a15e-642bd917604c)
+
+![image](https://github.com/user-attachments/assets/edfe8206-aad0-43f2-aea2-4277c2ea06c8)
+
+![image](https://github.com/user-attachments/assets/c6847559-2fe6-4b68-afe4-c70f9ae6c16f)
+
+![image](https://github.com/user-attachments/assets/6e7478a7-38cf-4a2d-b39e-d7eb3454d602)
+
+![image](https://github.com/user-attachments/assets/6c1841d2-a7c9-4ea8-ae76-c6fad00bd0a7)
+
+![image](https://github.com/user-attachments/assets/9abd2f62-b67d-4042-b3a5-34be1ed6fb91)
+
+![image](https://github.com/user-attachments/assets/a27b8105-ffce-4e3e-b9bb-455c5e8a3f7a)
+
+![image](https://github.com/user-attachments/assets/606e1886-c314-4613-b589-c0e14c2a553b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
