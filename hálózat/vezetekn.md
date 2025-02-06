@@ -52,11 +52,11 @@ laptop wifik ![image](https://github.com/user-attachments/assets/aec96ae6-ac13-4
 
 ![image](https://github.com/user-attachments/assets/6e7478a7-38cf-4a2d-b39e-d7eb3454d602)
 
+<img src="https://github.com/user-attachments/assets/a27b8105-ffce-4e3e-b9bb-455c5e8a3f7a" width="400" height="850">  
+
 ![image](https://github.com/user-attachments/assets/6c1841d2-a7c9-4ea8-ae76-c6fad00bd0a7)
 
-![image](https://github.com/user-attachments/assets/9abd2f62-b67d-4042-b3a5-34be1ed6fb91)
-
-![image](https://github.com/user-attachments/assets/a27b8105-ffce-4e3e-b9bb-455c5e8a3f7a)
+<img src="https://github.com/user-attachments/assets/9abd2f62-b67d-4042-b3a5-34be1ed6fb91" width="400" height="850">  
 
 ![image](https://github.com/user-attachments/assets/606e1886-c314-4613-b589-c0e14c2a553b)
 
