@@ -119,16 +119,6 @@ Láthatjuk hogy gyengébb jelerősséggel rendelkezünk telefonon vezeték nélk
 ![image](https://github.com/user-attachments/assets/924c34e6-94c4-45a9-ad16-ca6d713cbfb8)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Összegzés  
+A vezeték nélküli hálózat készítése közben figyelembe kellett vegyem azt, hogy nem a legideálsiabb körülmények között mértük a jelet.  
+Egyszerre több router adott jelet, amik interferenciát okoztak, ezáltal nem a legerősebb jelet fogtuk.  
