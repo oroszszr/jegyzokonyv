@@ -19,6 +19,12 @@ A projektfeladat célja egy működő hálózati topológia kiépítése és vez
   -  TP-LINK TR-WR841N 300Mbps wireless router hálózati elérés biztosítására  
   -  POCO X3 PRO telefon pingelésre és hálózat minőségének tesztelésére  
 
+## Feladatleírás röviden  
+- Hálózati eszközök felkonfigurálása és tesztelése. 
+- Hálózati beállítások (LAN, DHCP, Wi-Fi security) elvégzése.
+- Jelerősség és hálózati teljesítmény tesztelése különböző eszközökön. pl.: telefon, laptop.
+- Parancssori eszközökkel hálózati adatok tesztelése és ellenőrzése (pl. pingelés, útvonal követése, port lista stb).  
+ 
 ## Hálózati topológia   
 
 ![image](https://github.com/user-attachments/assets/6306094c-c945-4a58-bd0a-b2decedb23b7)
