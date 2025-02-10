@@ -22,7 +22,7 @@ Az amlitúdómoduláció elméleti és gyakorlati megértése, vizsgálata. A fe
 - SGSP-730 spektrumanalizátor a sprektrumkép analizálására  
 <img src="https://github.com/user-attachments/assets/5ab7d7a6-8a7a-4621-bd9f-c9256793a1e0" width="700" height="450">   
 
-- Oszcilloszkóp a jel szintjének dokumentálása (Vpp)
+- HMO-1002 Digitális tárolós oszcilloszkóp a jel szintjének dokumentálása (Vpp)
 <img src="https://github.com/user-attachments/assets/96c4bf16-b858-4524-9d90-8d6bdc9318f2" width="700" height="450">  
 
 - RF csatlakozók  (2db 100mm ó, 1db 800mm)   
