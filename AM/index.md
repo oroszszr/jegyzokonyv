@@ -30,19 +30,45 @@ Az amlitúdómoduláció elméleti és gyakorlati megértése, vizsgálata. A fe
 
 ## Feladat menete  
 
-### A következő feladatban 2 mérést végeztünk el, egyszer 880 MHz középfrekvenciájú vivőfrekvenciájú jelen, 100kHz-es szinuszjellel, 100%-os modulációs mélységre törekedve.  
+### A következő feladatban 2 mérést végeztünk el, egyszer 880 MHz középfrekvenciájú  jelen, 100kHz-es szinuszjellel, 100%-os modulációs mélységre törekedve. 6dB felel meg 100%-os mélységért.  
 
 Az alábbi képen láthatóak a következő adatok:  
+- Vivőjel teljesítménye: -30.9dBm
+- Felső oldalsáv teljesítmény: 6dB  
 - Középfrekvencia: 880MHz  
 - Modulációs mélység: 6dB  
 - RBW: 30kHz  
-- Span érték:  5kHz
- 
+- Span érték:  5kHz  
+- A vivőjel és az oldalsáv amplitúdójából számított érték: -30.9 - 6 = -36.9dBm  
+  
 ![image](https://github.com/user-attachments/assets/dbc2d7ed-68a6-4849-90f7-9cc1bc9cdc7f)
 
-A következő képen pedig látható az oszcilloszkópon lévő adatok:  
-- 
-![image](https://github.com/user-attachments/assets/f3a5c298-fec0-4652-ac60-a02f196d5a73)
+A következő képen pedig láthatóak az oszcilloszkópon lévő adatok:  
+- Periódusidő: 10 mikrosec
+- Vpp(csúcstól-csúcsig tartó feszültség): 1.09V
+
+![image](https://github.com/user-attachments/assets/f3a5c298-fec0-4652-ac60-a02f196d5a73)  
+
+### Második mérésben pedig 900MHz középfrekvenciájú jelen, 500kHz-es szinuszjellel, 63%-os modulációs mélységgel. 10dB felel meg 63%-os mélységért.  
+
+- Vivőjel teljesítménye: -30.9dBm
+- Felső oldalsáv teljesítmény: 6dB  
+- Középfrekvencia: 880MHz  
+- Modulációs mélység: 6dB  
+- RBW: 30kHz  
+- Span érték:  5kHz  
+- A vivőjel és az oldalsáv amplitúdójából számított érték: -30.9 - 6 = -36.9dBm
+
+![image](https://github.com/user-attachments/assets/ee175e84-51e4-42d0-8d27-26bbd9884757)
+
+
+![image](https://github.com/user-attachments/assets/6ae2dd2a-bd82-4988-9626-b09ff129953b)
+
+
+
+
+
+
 
 
 
