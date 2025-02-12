@@ -41,7 +41,7 @@ Az alábbi képen láthatjuk a 177.5MHz-n lévő adatokat
 - Noise Margin: 17.1 dB
 - MER: 33.8 dB 
 - Packet errors: 0
-- Csillapítás: 0.3 dB
+- Csillapítás: 0.3 dB (90 - 89.7)  
 
 ![image](https://github.com/user-attachments/assets/d5ba00a5-f647-4e28-a7ba-917a50ca7eb1)
 
@@ -54,7 +54,7 @@ Ezen a képen pedig a 858MHz-n lévő adatok
 - Noise Margin: 17.7 dB
 - MER: 34.4 dB 
 - Packet errors: 0
-- Csillapítás: 1.6dB
+- Csillapítás: 1.6dB (90 - 88.4)  
 
 ![image](https://github.com/user-attachments/assets/b3391ed4-9cb7-4136-9d64-118ed5371680)
 
