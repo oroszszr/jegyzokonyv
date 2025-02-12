@@ -34,7 +34,7 @@
 
 ### Alacsony frekvencián (177.5 MHz-n) mért kép(ek)  
 
-Az alábbi képeken láthatjuk a következő adatokat  
+Az alábbi képen láthatjuk a 177.5MHz-n lévő adatokat  
 - Frekvencia: 177.5 MHz
 - Moduláció: DVB-T, 64QAM, 8K , 1/32
 - Jelszint (Power): 89.7 dBµV 
