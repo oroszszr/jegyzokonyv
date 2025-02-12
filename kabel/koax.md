@@ -39,11 +39,12 @@ KOAX kábel készítése és mérése, a lehető legjobb jelátvitel biztosítá
 
 Az alábbi képeken láthatjuk a következő adatokat  
 - Frekvencia: 177.5 MHz
-- Moduláció: DVB-T, QPSK, 8K , 1/32
-- Jelszint (Power): 88.4 dBµV 
-- Noise Margin: 17.7 dB
-- MER: 34.4 dB 
+- Moduláció: DVB-T, 64QAM, 8K , 1/32
+- Jelszint (Power): 89.7 dBµV 
+- Noise Margin: 17.1 dB
+- MER: 33.8 dB 
 - Packet errors: 0
+- Csillapítás: 0.3 dB
 
 ![image](https://github.com/user-attachments/assets/d5ba00a5-f647-4e28-a7ba-917a50ca7eb1)
 
@@ -51,11 +52,12 @@ Az alábbi képeken láthatjuk a következő adatokat
 
 Ezen a képen pedig a 858MHz-n lévő adatok  
 - Frekvencia: 858.0 MHz
-- Moduláció: DVB-T, QPSK, 8K , 1/32
+- Moduláció: DVB-T, 64QAM, 8K , 1/32
 - Jelszint (Power): 88.4 dBµV 
 - Noise Margin: 17.7 dB
 - MER: 34.4 dB 
 - Packet errors: 0
+- Csillapítás: 1.6dB
 
 ![image](https://github.com/user-attachments/assets/b3391ed4-9cb7-4136-9d64-118ed5371680)
 
