@@ -10,6 +10,9 @@
 **Csoport:** GYAK 1   
 **Helyszín:** V3 Labor  
 
+## Feladat célja  
+Koaxiális kábel elkészítése és csillapítás mérése
+
 ## Felhasznált eszközök  
 - Koax kábel és csatlakozófej  
 - Rotációs blankoló
