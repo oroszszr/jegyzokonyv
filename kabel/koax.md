@@ -10,9 +10,6 @@
 **Csoport:** GYAK 1   
 **Helyszín:** V3 Labor  
 
-## Feladat célja 
-KOAX kábel készítése és mérése, a lehető legjobb jelátvitel biztosítása.  
-
 ## Felhasznált eszközök  
 - Koax kábel és csatlakozófej  
 - Rotációs blankoló
