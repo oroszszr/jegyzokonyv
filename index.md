@@ -10,6 +10,8 @@
 [Mérés -  Forrasztás](https://github.com/oroszszr/jegyzokonyv/blob/main/forrasztas/index.md)   
 [Mérés - Mikrotik](https://github.com/oroszszr/jegyzokonyv/blob/main/mikrotik/index.md)  
 [Mérés - IPTV](https://github.com/oroszszr/jegyzokonyv/blob/main/IPTV/index.md)  
+[Mérés - KOAX](https://github.com/oroszszr/jegyzokonyv/blob/main/kabel/koax.md)  
+[Mérés - Műhold](https://github.com/oroszszr/jegyzokonyv/blob/main/m%C5%B1hold/muhold.md)  
 
 
 
