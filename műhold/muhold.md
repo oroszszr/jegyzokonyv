@@ -11,14 +11,17 @@
 **Csoport:** GYAK 1   
 **Helyszín:** V3 Labor  
 
-## Feladat célja 
-
+## Feladat célja   
+Egy szabadon fogható (FTA) csatorna véletének beállítása, műholdas vételi rendszer kiépítése és vizsgálata, majd optimális vételi jel csatlakoztatása egy set op boxba.  
 
 ## Felhasznált eszközök   
-- Parabolaantenna: D80 Mesh hálós acél parabola antenna (tripodra szerelve)
+- Parabolaantenna: D80 Mesh 
 - Műholdvevő fej (LNB):Ekselans SATCR LNB
 - Set-top box: Amiko HD 8265+
 - METEK HDD jelmérő
 - Koaxiális kábelek és csatlakozók
 - 2-es műholdas jelosztó
 - Szerelési eszközök: csavarhúzó, villáskulcs, iránytű, dőlésszögmérő
+
+## Feladat menete  
+
