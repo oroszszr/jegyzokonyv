@@ -56,8 +56,6 @@ A következő képen pedig láthatóak a csatornainformációk.
 - APID (Audio PID) és bitráta: 1201 / 0.415802 Mb/s (AC3 hangformátum)
 
 
-
-
-
-
-
+## Hibakeresés  
+Nem kaptunk képet, mint kiderült hibás UTP kábel végett.  
+Beállítottuk a Hot Bird 13-ra a spektrumanalizátort, beállítottuk az antennát a megfelelő szögállásba, finomhangoltuk  és 80dBuV jel ellenére sem kaptunk képet.  
