@@ -10,3 +10,15 @@
 **Évfolyam:** 13. E  
 **Csoport:** GYAK 1   
 **Helyszín:** V3 Labor  
+
+## Feladat célja 
+
+
+## Felhasznált eszközök   
+- Parabolaantenna: D80 Mesh hálós acél parabola antenna (tripodra szerelve)
+- Műholdvevő fej (LNB):Ekselans SATCR LNB
+- Set-top box: Amiko HD 8265+
+- METEK HDD jelmérő
+- Koaxiális kábelek és csatlakozók
+- 2-es műholdas jelosztó
+- Szerelési eszközök: csavarhúzó, villáskulcs, iránytű, dőlésszögmérő
