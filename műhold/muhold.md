@@ -57,6 +57,6 @@ A következő képen pedig láthatóak a csatornainformációk.
 
 
 ## Hibakeresés  
-Nem kaptunk képet, mint kiderült hibás UTP kábel végett.  
+Nem kaptunk képet, mint kiderült hibás KOAX kábel végett.  
 Beállítottuk a Hot Bird 13-ra a spektrumanalizátort, beállítottuk az antennát a megfelelő szögállásba, finomhangoltuk  és 80dBuV jel ellenére sem kaptunk képet.  
 Mint kiderült, újabb szoftveren, másik kábellel bejött.  
