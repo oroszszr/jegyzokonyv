@@ -51,9 +51,69 @@ Minden zavaró tényező ellenére megpróbáltam beállítani a lehető legjobb
 
 ### Metek HDD-n mért mászerek a csillpítótag csatlakoztatása előtt  
 
-### 530 MHz   
+### 530 MHz     
 ![530sima](https://github.com/user-attachments/assets/951e8a68-bb37-4e53-972d-b34266d47e3d)  
 
-### Adatok 
+### Adatok:  
+
+- Jelerősség: 62,7dBuV
+- Moduláció: 64QAM
+- Noise margin: 10,5
+- MER érték: 26,7dB
+
+
+### 554Mhz    
+![554sima](https://github.com/user-attachments/assets/4e1ed134-ec3c-4dc4-b2e7-534c5aef08a9)
+
+### Adatok:   
+
+- Jelerősség: 56,2dBuV
+- Moduláció: 64QAM
+- Noise margin: 11,5
+- MER érték: 27,7dB
+
+
+### 586Mhz  
+![586sima](https://github.com/user-attachments/assets/38fd9034-5dbb-4b0e-8324-562851b5c765)
+
+### Adatok: 
+
+- Jelerősség: 56dBuV
+- Moduláció: 64QAM
+- Noise margin: 13
+- MER érték: 29,7dB
+
+
+### 634MHz (Miskolc Városi TV)  
+![634sima](https://github.com/user-attachments/assets/4185ae51-e0c2-4310-94a1-59c9536addb9)
+
+### Adatok: 
+
+- Jelerősség: 47dBuV
+- Moduláció: QPSK
+- Noise margin: 17,6
+- MER érték: 26,7dB
+
+
+### 666MHz  
+![666sima](https://github.com/user-attachments/assets/714aa4a9-c87f-4c85-a2b4-b331c1913ba7)
+
+### Adatok: 
+
+- Jelerősség: 57,7dBuV
+- Moduláció: 64QAM
+- Noise margin: 7,5
+- MER érték: 24,2dB
+
+
+### 690MHz  
+![690sima](https://github.com/user-attachments/assets/65ed0a4a-3da6-4910-b5f5-9b41f703489d)
+
+### Adatok: 
+
+- Jelerősség: 56dBuV
+- Moduláció: 64QAM
+- Noise margin: 8,4
+- MER érték: 24,5
 
 
