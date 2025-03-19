@@ -184,4 +184,31 @@ Az alábbi csatornán csomegvesztés következett be.
 - MER érték: 24,6dB
 
 
+## Méréseket összehasonlító táblázat    
 
+| Multiplex     | Frekvencia (MHz) | ERP (kW) | Jelszint (dBuV) | Noise Margin | MER (dB) | Packet errors | Moduláció | Jelszint (dBuV) | Noise Margin | MER (dB) | Packet errors | Csillapítás (dB) |
+|---------------|-------------------|----------|------------------|--------------|----------|---------------|-----------|------------------|--------------|----------|---------------|-------------------|
+| C             | 530               | 3,2      | 62,70            | 10,5         | 26,70    | 0,00          | 64QAM     | 60,10            | 10,1         | 28,20    | 0,00          | 2,60              |
+| D             | 554               | 4,6      | 56,20            | 12,3         | 27,70    | 0,00          | 64QAM     | 57,00            | 11,50        | 25,80    | 0,00          | -0,80             |
+| B             | 586               | 3,9      | 56,00            | 11,3         | 29,70    | 0,00          | 64QAM     | 56,80            | 11,20        | 26,50    | 0,00          | -0,80             |
+| Miskolc TV    | 634               | 0,126    | 47,00            | 16,50        | 21,30    | 0,00          | QPSK      | 41,30            | 15,50        | 19,80    | 0,00          | 5,70              |
+| A             | 666               | 5        | 57,70            | 14,00        | 24,20    | 0,00          | 64QAM     | 52,40            | 11,30        | 19,60    | 230,00        | 5,30              |
+| E             | 690               | 4,1      | 56,00            | 11,2         | 24,50    | 0,00          | 64QAM     | 53,10            | 9,00         | 24,60    | 0,00          | 2,90              |
+
+
+Mgejegyzés: MULTIPLEX B és D esetén a jelerősség -0,80 dB-el "csökkent", tehát gyakorlatilag csillapítótaggal nőtt a jelerősség, ami lehetetlen. Viszont lehetséges, hogy esetleges interferenciák által a pillanatnyi érték ilyen mértékben változott, ezáltal jöttek ki ilyen adatok.     
+
+
+## Összehasonlító diagramok a bejövő, és az ossztott jel után.  
+
+### Jelerősség összehasonlítása  
+
+![csillapításdiagram](https://github.com/user-attachments/assets/9d717b92-ca89-4e82-9303-8529e4a67a21)
+
+### Noise margin összehasonlítása  
+
+![noisemargindiagram](https://github.com/user-attachments/assets/0ecc9015-496d-4aef-b83d-b90c17c9b955)
+
+### MER  összehasonlító diagram
+
+![image](https://github.com/user-attachments/assets/268372cf-2333-449f-ad6f-4d35bf3ed494)
