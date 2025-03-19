@@ -28,7 +28,7 @@ A földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adót
 
 Először megnéztem az **fmdx.hu** oldalon az avasi torony csatornakiosztását.
 
-Megkerestem a Miskolc Városi TV adást, ami 634MHz-en lévő csatornán helyezkedik el. Azért választottuk ezt a csatornát mivel ez sugároz a leggyengébben (0,126kW), ezért, ha itt a lehető legjobb vételt biztosítjuk, a többi adón csak jobb jel lehet, mert nagyobb és ha ezen a csatornán jó a vétel, akkor a többin is értelem szerűen jó lesz.    
+Megkerestem a Miskolc Városi TV adást, ami 634MHz-en lévő csatornán helyezkedik el. Azért választottuk ezt a csatornát mivel ez sugároz a leggyengébben (0,126kW), ezért, ha itt a lehető legjobb vételt biztosítjuk, a többi adón elméletileg csak jobb jel lehet, mert erősebben sugároznak és ha ezen a csatornán jó a vétel, akkor a többin is értelem szerűen jó lesz.    
 
 **Miskolc Avas csatornakiosztás**  
 
@@ -47,9 +47,9 @@ Minden zavaró tényező ellenére megpróbáltam beállítani a lehető legjobb
 - Hőmérséklet: 9°C
 - Szélerősség: 3 km/h
 
-## Metek HDD adatok, és jelszintmérés  
+## Metek HDD adatok, és jelszintmérés   
 
-### Metek HDD-n mért mászerek a csillpítótag csatlakoztatása előtt  
+### Metek HDD-n mért adatok a csillpítótag csatlakoztatása előtt:  
 
 ### 530 MHz     
 ![530sima](https://github.com/user-attachments/assets/951e8a68-bb37-4e53-972d-b34266d47e3d)  
@@ -114,6 +114,74 @@ Minden zavaró tényező ellenére megpróbáltam beállítani a lehető legjobb
 - Jelerősség: 56dBuV
 - Moduláció: 64QAM
 - Noise margin: 8,4
-- MER érték: 24,5
+- MER érték: 24,5dB
+
+
+### Metek HDD-n mért adatok a csillpítótag csatlakoztatásával:  
+
+### 530Mhz  
+![530cs](https://github.com/user-attachments/assets/d0ee7dd0-155c-4d94-9fcf-0f06455ffdbd)
+
+### Adatok: 
+
+- Jelerősség: 60,1dBuV
+- Moduláció: 64QAM
+- Noise margin: 12,1
+- MER érték: 28,2dB
+
+### 554MHz  
+![554cs](https://github.com/user-attachments/assets/db4d80b6-b577-4f7a-b402-09fed2a53767)
+
+### Adatok: 
+
+- Jelerősség: 57dBuV
+- Moduláció: 64QAM
+- Noise margin: 9,7
+- MER érték: 25,8dB
+
+
+### 586MHz  
+![586cs](https://github.com/user-attachments/assets/0d1fef5d-d439-43ed-8093-931df7a9b6df)
+
+  ### Adatok: 
+
+- Jelerősség: 56,8dBuV
+- Moduláció: 64QAM
+- Noise margin: 9,9
+- MER érték: 26,5dB
+
+### 634MHz
+![634cs](https://github.com/user-attachments/assets/27ad539f-115f-440a-b084-ddac5a230f13)
+
+  ### Adatok: 
+
+- Jelerősség: 56dBuV
+- Moduláció: QPSK  
+- Noise margin: 16,1
+- MER érték: 19,8dB
+
+
+### 666MHz  
+![666cs](https://github.com/user-attachments/assets/8c77c9d7-1dfe-466d-a5a8-1972e88250b8)
+Az alábbi csatornán csomegvesztés következett be.  
+  ### Adatok: 
+
+- Jelerősség: 52,4dBuV
+- Moduláció: 64QAM
+- Noise margin: 2,9
+- MER érték: 19,6dB
+- Packet errors: 230
+
+
+### 690MHz
+![690cs](https://github.com/user-attachments/assets/04800a95-9a0e-4ac5-bd3b-70fcbecf6c4e)
+
+### Adatok: 
+
+- Jelerősség: 53,1dBuV
+- Moduláció: 64QAM
+- Noise margin: 8,4
+- MER érték: 24,6dB
+
 
 
