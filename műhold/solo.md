@@ -55,4 +55,33 @@ Beállítottam a megfelelő régiót, országot és végrehajtottam a manuális 
 - **Felbontás (Resolution):** 720x576  
 - **VPID / Bitrate:** 601 / 1.748085 Mb/s  
 - **APID / Bitrate:** 834 / 0.089645 Mb/s  
-- **Szolgáltatás típusa:** FREE (szabadon fogható)  
+- **Szolgáltatás típusa:** FREE (szabadon fogható)
+
+## A következő képek a TV-ről készült adatokat mutatja  
+
+![image](https://github.com/user-attachments/assets/c8c21690-2a59-4c5b-a16c-25be2b5b1cb3)
+
+### Jelerősség és műhold adatok
+
+### Paraméterek  
+- **SNR (Signal-to-Noise Ratio):** 100 %
+- **AGC (Automatic Gain Control):** 77 %
+- **BER (Bit Error Rate):** 0  
+## Tuner:
+- **Tuner típusa:** Tuner A: DVB-S2 NIM (DVB-S2X)
+## Műhold:
+- **Pozíció:** 0.8W
+- **Műhold:** Ku-band Thor 5/6/7 & Intelsat 10-02
+- **Transzponder:** 12130 H 28000 7/8
+
+
+![IMG_20250324_122547](https://github.com/user-attachments/assets/c9156f06-b763-4874-9f26-e7393721ccf4)
+
+- **Felbontás**: 720x576p25
+- **Kódolás**: MPEG2 H.262
+- **Átvitel**: DVB-S 12130 MHz H 28000 7/8 QPSK 0.8°W
+- **Időtartam**: 115 perc
+- **Képarány**: 16:9
+- **Jelerősség (SNR)**: 100%
+
+
