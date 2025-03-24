@@ -4,7 +4,7 @@
 **A mérést végző neve:** Orosz Szabolcs  
 **A mérés tárgya:**  Műholdas vételi rendszer kiépítése     
 **A mérés száma:** 09. mérés    
-**A mérés dátuma:** 2025. 03. 34.    
+**A mérés dátuma:** 2025. 03. 24.    
 **A mérést vezette:** Sándor Péter    
 
 **Évfolyam:** 13. E  
@@ -30,9 +30,29 @@ Egy szabadon fogható (FTA) csatorna véletének beállítása, műholdas vétel
 Internetes műholdvevő adatbázisból (lyngsat.com) kikerestem a(z) FTA csatornákat és választottam egyet, amely végül a(z) Thor 5 műhold lett.  
 Iránytű segítségével beállítottam az antenna dőlésszögét, polarizációját és a METEK HDD segítségével a lehető legjobb jelet próbáltam venni. Finomhangolást követően a antenna szögállása 210°, a dőlésszöge 31° , és az LNB szöge 18° lett.   
 Csatlakoztattam egymással az LNB vevőfejet és a set top boxot, mindezek után csatlakoztattam a set top boxot egy monitorra.  
-Beállítottam a megfelelő régiót, orszgágot és a manuális csatornakeresést.   
+Beállítottam a megfelelő régiót, országot és végrehajtottam a manuális csatornakeresést.   
 
 ![image](https://github.com/user-attachments/assets/17d23c9c-efe0-4876-8cf2-958f2b87f4e6)
 
+### Információk
+
+- **Frekvencia:** 1530.0 MHz  
+- **Műhold:** Thor 5/6  
+- **Transzponder:** 12130H28000  
+- **Moduláció:** DVB-S / QPSK / 7/8  
+- **Jelszint (Power):** 85.5 dBuV  
+- **Noise Margin:** 5.6 dB  
+- **MER (Modulation Error Ratio):** 13.1 dB  
+- **Csomaghibák (Packet Errors):** 0  
+
 
 ![image](https://github.com/user-attachments/assets/9365606b-d021-406a-9efa-6eed9419c01d)
+
+### Fontosabb Információk (Galaxy4)
+
+- **Service ID:** 2710  
+- **Csatorna neve:** Galaxy4  
+- **Felbontás (Resolution):** 720x576  
+- **VPID / Bitrate:** 601 / 1.748085 Mb/s  
+- **APID / Bitrate:** 834 / 0.089645 Mb/s  
+- **Szolgáltatás típusa:** FREE (szabadon fogható)  
