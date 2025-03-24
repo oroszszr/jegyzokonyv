@@ -59,11 +59,10 @@ Beállítottam a megfelelő régiót, országot és végrehajtottam a manuális 
 
 ## A következő képek a TV-ről készült adatokat mutatja  
 
-![image](https://github.com/user-attachments/assets/c8c21690-2a59-4c5b-a16c-25be2b5b1cb3)
+![image](https://github.com/user-attachments/assets/c8c21690-2a59-4c5b-a16c-25be2b5b1cb3)  
 
 ### Jelerősség és műhold adatok
 
-### Paraméterek  
 - **SNR (Signal-to-Noise Ratio):** 100 %
 - **AGC (Automatic Gain Control):** 77 %
 - **BER (Bit Error Rate):** 0  
@@ -74,6 +73,8 @@ Beállítottam a megfelelő régiót, országot és végrehajtottam a manuális 
 
 
 ![IMG_20250324_122547](https://github.com/user-attachments/assets/c9156f06-b763-4874-9f26-e7393721ccf4)
+
+## Következő képen pedig láthatjik az alábbi információkat  
 
 - **Felbontás**: 720x576p25
 - **Kódolás**: MPEG2 H.262
