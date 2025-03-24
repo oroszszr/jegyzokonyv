@@ -67,9 +67,7 @@ Beállítottam a megfelelő régiót, országot és végrehajtottam a manuális 
 - **SNR (Signal-to-Noise Ratio):** 100 %
 - **AGC (Automatic Gain Control):** 77 %
 - **BER (Bit Error Rate):** 0  
-## Tuner:
 - **Tuner típusa:** Tuner A: DVB-S2 NIM (DVB-S2X)
-## Műhold:
 - **Pozíció:** 0.8W
 - **Műhold:** Ku-band Thor 5/6/7 & Intelsat 10-02
 - **Transzponder:** 12130 H 28000 7/8
