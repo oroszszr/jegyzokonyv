@@ -74,7 +74,7 @@ Beállítottam a megfelelő régiót, országot és végrehajtottam a manuális 
 
 ![IMG_20250324_122547](https://github.com/user-attachments/assets/c9156f06-b763-4874-9f26-e7393721ccf4)
 
-## Következő képen pedig láthatjik az alábbi információkat  
+## Következő képen pedig láthatjuk az alábbi információkat  
 
 - **Felbontás**: 720x576p25
 - **Kódolás**: MPEG2 H.262
