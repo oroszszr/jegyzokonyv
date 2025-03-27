@@ -67,7 +67,7 @@ Először a mikrohullámú hálózat kapcsolatát végeztük el, nem ideális es
 
 ![image](https://github.com/user-attachments/assets/dfbb5ba1-0a6d-49d1-83f3-9c8ece85b679)
 
-Mindezek után beállítottuk a lehető legjobb átviteli sebességre koncentráltunk és próbáltuk beállítani.
+Mindezek után a lehető legjobb átviteli sebességre koncentráltunk és próbáltuk beállítani.
 Hálózati interferenciák léphetnek fel, tehát ez még mindig nem a legjobb eset.  
 
 ![image](https://github.com/user-attachments/assets/3f916704-0b11-48c0-a1c1-eaaf92108755)
